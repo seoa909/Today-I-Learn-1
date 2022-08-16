@@ -4,7 +4,7 @@
 - json-server -w db.json -p 3500
 
 # Preview
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/59503331/184952093-1753f05b-f0a4-4dae-bdc3-11e5b609f532.gif)
+![23](https://user-images.githubusercontent.com/59503331/184953007-6f88d961-d14a-4f79-a1d4-653f6ae645d0.gif)
 
 # Quick Find Redux
 
