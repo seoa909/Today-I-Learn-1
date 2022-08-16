@@ -1,14 +1,35 @@
-The Viking Age (793–1066 AD) is remembered for its bloody battles, coastal attacks, and much mead-drinking, but most notably—its heroes and legends.
+- The Viking Age (793–1066 AD) is remembered for its bloody battles, coastal attacks, and much mead-drinking, but most notably—its heroes and legends.
+- 바이킹시대(793-1066 AD:After Death)는 피의 전장들, 해상전투들 그리고 술을 많이마시는 걸로 기억되고있지만, 가장 주목할만한 것은 영웅들과 전설들이다. 
 
-Whether they genuinely lived or were merely a myth, there are simply too many great Scandinavian heroes to name. Join us as we discover the captivating stories of five of the most famous Vikings!
-Harald Hardrada
-AKA: Harald III van Noorwegen/Harald Sigurdsson/Harald of Norway
+- Whether they genuinely lived or were merely a myth, there are simply too many great Scandinavian heroes to name. 
+- 그들이 진짜로 살았던지(실존했던지) 단지 신화였던지는 몰라도, 단순히 이름을 붙이기에는(vikings) 너무많은 위대한 스캔디네비안 영웅들이 있다.
 
-Harald Hardrada was the final Viking to lay claim to the English crown, but before the battle to put himself on the throne, Harald led a fascinating and far-travelled life.
+- Join us as we discover the captivating stories of five of the most famous Vikings!
+- 우리와 함께 다섯의 가장 유명한 바이킹의 매력적인 이야기들을 알아내보자.
 
-In 1034 AD, Harald sailed to Constantinople, where the Eastern Roman Empire was at the height of its power and wealth. Shortly after arriving, Harald joined the Varangian Guard, comprised of elite Norse soldiers who protected the city and the emperor, just as their namesake Unit in Conqueror’s Blade: Helheim does.
+# Harald Hardrada
+# 헤럴드 할드라다
 
-But Harald would return to Norway only ten years later after learning that his nephew, Magnus, had been crowned King of Norway and Denmark. Now flush with coin from his years with the guard, Harald formed an alliance with Sweyn II to dethrone Magnus. However, when Magnus noticed Harald’s new riches, they struck a deal and served as co-rulers of Norway until Magnus’ death a couple of years later.
+- AKA: Harald III van Noorwegen/Harald Sigurdsson/Harald of Norway
+- (AKA: also known as) 잘 알려진이름: 헤럴드 3세 판 누르베겐/헤럴드 시구르손/노르웨이의 헤럴드
+
+- Harald Hardrada was the final Viking to lay claim to the English crown, but before the battle to put himself on the throne, Harald led a fascinating and far-travelled life.
+- 하랄드 하드라다는 영국 왕관을 계승한 마지막 바이킹이지만, 왕좌에 앉는 전투 전에, 하랄드는 매혹적이고 긴 여정의 삶을 살았다. 
+
+- In 1034 AD, Harald sailed to Constantinople, where the Eastern Roman Empire was at the height of its power and wealth. 
+- 1034년, 하랄드는 동로마 제국이 권력과 부의 절정기에 있었던 곳. 콘스탄티노플로 항해를 했다.
+
+- Shortly after arriving, Harald joined the Varangian Guard, comprised of elite Norse soldiers who protected the city and the emperor. (just as their namesake Unit in Conqueror’s Blade: Helheim does.)
+- 도착후에 바로, 하랄드는 황제와 도시를 수호하는 엘리트 노르만 군대(elite Norse soldiers)로 구성되어있는 바랑기안 근위대(Varangian Guard)에 가입했다. (컨블에 있는 유닛과 이름이 같은 헬헤임을 뜻함).
+
+- But Harald would return to Norway only ten years later after learning that his nephew, Magnus, had been crowned King of Norway and Denmark. 
+- 하랄든느 그의 조카인 매그너스(magnus)가 노르웨이와 덴마크의 왕위에 오른것을 알고 10년만에 노르웨이로 돌아왔다.
+
+- Now flush with coin from his years with the guard, Harald formed an alliance with Sweyn II to dethrone Magnus. 
+- 가드로 있던동안 돈을 많이 모은 하랄드는 매그너스를 퇴위시키기 위해 스웨인II와 동맹을 결성했다.
+
+- However, when Magnus noticed Harald’s new riches, they struck a deal and served as co-rulers of Norway until Magnus’ death a couple of years later.
+- 하지만, 매그너스가 하랄드가 부자가된걸, 그들은 합의했고 몇년후 매그너스가 죽을때까지 노르웨이의 공동통치자로 일했다.
 
 With his nephew dead and Harald Hardrada’s title as the one true king of Norway cemented, there was only one thing left to do—make his claim to the English throne.
 
@@ -20,8 +41,8 @@ The Battle of Stamford Bridge (just east of York) was carnage, with upwards of 1
 
 Harald’s death signified the conclusive end to the Viking Age.
 
-
 A stained glass window depicting Harald Hardrada in Kirkwall Cathedral
+
 Ragnar Lothbrok
 AKA: Ragnar Lodbrok
 
