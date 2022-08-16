@@ -1,2 +1,11 @@
-# prtwo
- 
+## Data Type
+
+JS has two major Data Types
+- primitive type
+  - number, string, boolean, null, undefined, Symbol
+- reference type
+  - object, Array, Function, Date, RegExp, Map, WeakMap, Set, WeakSet
+
+```javascript
+
+```
