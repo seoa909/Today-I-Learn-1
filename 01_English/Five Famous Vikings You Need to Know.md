@@ -31,6 +31,20 @@
 - However, when Magnus noticed Harald’s new riches, they struck a deal and served as co-rulers of Norway until Magnus’ death a couple of years later.
 - 하지만, 매그너스가 하랄드가 부자가된걸, 그들은 합의했고 몇년후 매그너스가 죽을때까지 노르웨이의 공동통치자로 일했다.
 
+
+단어정리
+- most notably: 가장 주목할만한
+- Whether they genuinely lived or were merely a myth: 진짜로 존재했던지 아니면 신화였던지
+- captivating stories: 매력적인 이야기
+- lay claim to: Assert one's right to or ownership of
+- fascinating: 매혹적인
+- far-travelled life: 긴 여정의 삶
+- height of its power and wealth: 권력과 부의 절정기
+- comprised of: 구성되어있는
+- flush with coin: 돈이 많은
+- strike a deal: 합의하다
+- 
+
 With his nephew dead and Harald Hardrada’s title as the one true king of Norway cemented, there was only one thing left to do—make his claim to the English throne.
 
 When an English nobleman named Harold Godwinson took the throne in 1066 AD, Harald launched an invasion on the shores of England. He sent a horde of Norsemen troops on hundreds of Viking longships, and arrived with Godwinson’s estranged brother Tostig by his side. Harald wasn’t the only one with his eyes on the English crown; the previous King Edward had promised the throne to William of Normandy, who also raised an army.
