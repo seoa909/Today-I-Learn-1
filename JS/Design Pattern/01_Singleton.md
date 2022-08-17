@@ -3,7 +3,7 @@
 The singleton pattern is a software design pattern that restricts the instantiation of a class to one "single" instance. 
 
 Reason to use?
- - in JS, still not sure in frontend position.
+ - in React, still not sure.
  - Other global states such as Redux can replace singleton pattern.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,7 +12,7 @@ Reason to use?
 싱글톤에서는 단 하나의 객체만 존재하는 것이 보장.
 
 자바스크립트에서 사용이유?
- - 프론트엔드에서는 아직 사용이유를 못찾았다.
+ - 리액트에서는 아직 사용이유를 못찾았다.
  - redux 등 다른 전역상태관리 라이브러리가 싱글톤 패턴을 대신 할 수 있다.
 
 # 싱글톤 기본형
