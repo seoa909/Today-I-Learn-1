@@ -23,7 +23,7 @@
 - 도착후에 바로, 하랄드는 황제와 도시를 수호하는 엘리트 노르만 군대(elite Norse soldiers)로 구성되어있는 바랑기안 근위대(Varangian Guard)에 가입했다. (컨블에 있는 유닛과 이름이 같은 헬헤임을 뜻함).
 
 - But Harald would return to Norway only ten years later after learning that his nephew, Magnus, had been crowned King of Norway and Denmark. 
-- 하랄든느 그의 조카인 매그너스(magnus)가 노르웨이와 덴마크의 왕위에 오른것을 알고 10년만에 노르웨이로 돌아왔다.
+- 하랄드는 그의 조카인 매그너스(magnus)가 노르웨이와 덴마크의 왕위에 오른것을 알고 10년만에 노르웨이로 돌아왔다.
 
 - Now flush with coin from his years with the guard, Harald formed an alliance with Sweyn II to dethrone Magnus. 
 - 가드로 있던동안 돈을 많이 모은 하랄드는 매그너스를 퇴위시키기 위해 스웨인II와 동맹을 결성했다.
@@ -31,25 +31,23 @@
 - However, when Magnus noticed Harald’s new riches, they struck a deal and served as co-rulers of Norway until Magnus’ death a couple of years later.
 - 하지만, 매그너스가 하랄드가 부자가된걸, 그들은 합의했고 몇년후 매그너스가 죽을때까지 노르웨이의 공동통치자로 일했다.
 
+- With his nephew dead and Harald Hardrada’s title as the one true king of Norway cemented, there was only one thing left to do—make his claim to the English throne.
+- 그의 조카의 죽음과 하랄드의 노르웨이 유대의 진정한 왕이라는 타이틀과 함께, 그에게는 이제 영국 왕위 주장만 하면되는 일 한가지만 남았었다.
 
-단어정리
-- most notably: 가장 주목할만한
-- Whether they genuinely lived or were merely a myth: 진짜로 존재했던지 아니면 신화였던지
-- captivating stories: 매력적인 이야기
-- lay claim to: Assert one's right to or ownership of
-- fascinating: 매혹적인
-- far-travelled life: 긴 여정의 삶
-- height of its power and wealth: 권력과 부의 절정기
-- comprised of: 구성되어있는
-- flush with coin: 돈이 많은
-- strike a deal: 합의하다
-- 
+- When an English nobleman named Harold Godwinson took the throne in 1066 AD, Harald launched an invasion on the shores of England. 
+- 영국의 귀족인 헤롤드 갓윈슨이 1066년에 왕위에 올랐을때, 하랄드는 영국 해안에 침공을 시작했다.
 
-With his nephew dead and Harald Hardrada’s title as the one true king of Norway cemented, there was only one thing left to do—make his claim to the English throne.
+- He sent a horde of Norsemen troops on hundreds of Viking longships, and arrived with Godwinson’s estranged brother Tostig by his side. 
+- 그는 갓윈슨과 사이가 멀어진 동생인 토스티그를 그의편으로 만들어서 노르만군대무리를 수백척의 롱쉽배에 태워서 도착했다.
 
-When an English nobleman named Harold Godwinson took the throne in 1066 AD, Harald launched an invasion on the shores of England. He sent a horde of Norsemen troops on hundreds of Viking longships, and arrived with Godwinson’s estranged brother Tostig by his side. Harald wasn’t the only one with his eyes on the English crown; the previous King Edward had promised the throne to William of Normandy, who also raised an army.
+- Harald wasn’t the only one with his eyes on the English crown; the previous King Edward had promised the throne to William of Normandy, who also raised an army.
+- 영국 왕관에 눈을 들이는건 하랄드 뿐만이 아니었다. 예전왕인 에드워드는 노르망디의 윌리엄에게 왕위를 약속했었고, 그도 군대를 일으켰다.
 
-Harald and his army sailed up the Humber River, defeated the troops who met them there and occupied York. Meanwhile, Godwinson’s soldiers were en route to the North, hoping to repel the Viking threat to the throne.
+- Harald and his army sailed up the Humber River, defeated the troops who met them there and occupied York. 
+- 하랄드와 그의 부대는 험버강을 따라 항해에서 올라가 그곳에서 만난 군대들을 무찌르고 요크를 점령했다.
+
+- Meanwhile, Godwinson’s soldiers were en route to the North, hoping to repel the Viking threat to the throne.
+- 한편, 갓윈슨의 병사들은 바이킹들이 왕위를 위협하는걸 철회하길 바라면서 북쪽으로 향하고 있었다.
 
 The Battle of Stamford Bridge (just east of York) was carnage, with upwards of 10,000 Viking and Anglo-Saxon men losing their lives in the conflict. Harald reportedly fought like a true berserker to attain the crown he thought was rightfully his. However, he was killed in battle alongside his new trusted ally Tostig.
 
@@ -100,3 +98,16 @@ The second banishment would occur after the theft of ornamental beams Erik wante
 With a new home to be sought, Erik founded the first Viking settlement in Greenland after heading out to sea. When his exile was over, he returned to Iceland and convinced people to join him on this new and prosperous island and became rich and respected as a ruler.
 
 Check out more tales about the Viking era with our look at their hygiene habits, their naval tactics, the true story of Loki, and more!
+
+
+단어정리
+- most notably: 가장 주목할만한
+- Whether they genuinely lived or were merely a myth: 진짜로 존재했던지 아니면 신화였던지
+- captivating stories: 매력적인 이야기
+- lay claim to: Assert one's right to or ownership of
+- fascinating: 매혹적인
+- far-travelled life: 긴 여정의 삶
+- height of its power and wealth: 권력과 부의 절정기
+- comprised of: 구성되어있는
+- flush with coin: 돈이 많은
+- strike a deal: 합의하다
