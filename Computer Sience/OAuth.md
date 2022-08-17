@@ -11,6 +11,11 @@
 # Workflow
 ![image](https://user-images.githubusercontent.com/59503331/185188170-e260fd6b-281a-446c-9720-7d47998363f7.png)
 
+# OAuth1.0 vs 0Auth2.0
+- https became mandatory
+- OAuth1.0 has only one authorization method, but OAuth2.0 has more.
+- OAuth 2.0 was to explicitly separate the roles of the authorization server from the API server. 
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 # OAuth 란?
