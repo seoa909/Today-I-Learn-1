@@ -26,11 +26,12 @@ const ProgressBar = ({
   };
 
   // progress bar gauge
-  useEffect(() => {
-    if (text1) setProgress(75);
-    else if (!text1) setProgress(50);
-    if (text1 && text2 && text1 === text2) setProgress(100);
-    else if (!text1 && !text2 && text1 !== text2) setProgress(75);
+ useEffect(() => {
+    if (text1) setProgress(ENUM.THREE_QUARTERS);
+    else if (!text1) setProgress(ENUM.HALF);
+    if (text1 && text2 && text1 === text2) setProgress(ENUM.FULL);
+    else if (!text1 && !text2 && text1 !== text2)
+      setProgress(ENUM.THREE_QUARTERS);
   }, [text1, text2]);
 
   return (
@@ -93,13 +94,14 @@ const ProgressBar = ({ initial, text1, text2 }) => {
   };
 
   // progress bar gauge
-  useEffect(() => {
-    if (text1) setProgress(75);
-    else if (!text1) setProgress(50);
-    if (text1 && text2 && text1 === text2) setProgress(100);
-    else if (!text1 && !text2 && text1 !== text2) setProgress(75);
+ useEffect(() => {
+    if (text1) setProgress(ENUM.THREE_QUARTERS);
+    else if (!text1) setProgress(ENUM.HALF);
+    if (text1 && text2 && text1 === text2) setProgress(ENUM.FULL);
+    else if (!text1 && !text2 && text1 !== text2)
+      setProgress(ENUM.THREE_QUARTERS);
   }, [text1, text2]);
-
+  
   return (
     <div className="flex items-center justify-end w-[calc(100%-56px)] h-[110px] mb-[16px]">
       <div className="progressBarBlock">
