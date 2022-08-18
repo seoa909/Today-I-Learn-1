@@ -49,14 +49,20 @@
 - Meanwhile, Godwinson’s soldiers were en route to the North, hoping to repel the Viking threat to the throne.
 - 한편, 갓윈슨의 병사들은 바이킹들이 왕위를 위협하는걸 철회하길 바라면서 북쪽으로 향하고 있었다.
 
-The Battle of Stamford Bridge (just east of York) was carnage, with upwards of 10,000 Viking and Anglo-Saxon men losing their lives in the conflict. Harald reportedly fought like a true berserker to attain the crown he thought was rightfully his. However, he was killed in battle alongside his new trusted ally Tostig.
+- The Battle of Stamford Bridge (just east of York) was carnage, with upwards of 10,000 Viking and Anglo-Saxon men losing their lives in the conflict. 
+- 스탬포드 다리 전투는 바이킹들과 앵글로색슨인들의 충돌로 만명 이상이 목숨을 잃은 대학살 이었다.
 
-Harald’s death signified the conclusive end to the Viking Age.
+- Harald reportedly fought like a true berserker to attain the crown he thought was rightfully his. 
+- 하랄드는 그의 생각에 그의 것 인거같은 왕관을 얻기위해 진짜 버서커처럼 싸웠다고 보고되어있다.
 
-A stained glass window depicting Harald Hardrada in Kirkwall Cathedral
+- However, he was killed in battle alongside his new trusted ally Tostig.
+- 그러나, 그는 그의 새로운 동맹인 토스티그와 나란히 전장에서 죽음을 당했다.
+
+- Harald’s death signified the conclusive end to the Viking Age.
+- 하랄드의 죽음은 바이킹시대의 완전한 끝을 상징한다.
 
 Ragnar Lothbrok
-AKA: Ragnar Lodbrok
+- 라그나 로스브록
 
 Ragnar Lothbrok is as interesting a character as you’ll find in Norse folklore. He was said to have been a Viking hero and a Danish and Swedish king, and while he comes alive in the pages of old Norse poetry and sagas as a legendary character, evidence suggesting he actually lived does exist.
 
@@ -111,3 +117,7 @@ Check out more tales about the Viking era with our look at their hygiene habits,
 - comprised of: 구성되어있는
 - flush with coin: 돈이 많은
 - strike a deal: 합의하다
+- conclusive: 단호히, 완전히
+- alongside: 나란히
+- rightfully: in accordance with a legitimate right 
+- carnage: 
