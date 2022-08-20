@@ -1,0 +1,36 @@
+# What is Test?
+- Test Driven Development (TDD) is software development approach in which test cases are developed to specify and validate what the code will do. 
+- In simple terms, test cases for each functionality are created and tested first and if the test fails then the new code is written in order to pass the test and making code simple and bug-free.
+
+- A unit test is a piece of test code that exercises and validates a piece of code in your application.
+- The goal with a unit test is to check a very small piece of functionality in your application in order to see if that application code works. 
+
+- Integration tests allow developers to start their applications locally, mock-out all dependencies and focus specifically on the functionality they are developing/testing.
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+# 테스트?
+- 테스트란, 우리가 작성한 코드가 잘 작동한다는 것을 검증하는 작업을 의미 
+- 예제
+ - 특정 기능이 잘 작동하는지 확인하고 싶을때, 구현한걸 하나하나 확인하기엔 너무 번거러움
+ - 그래서 테스트 자동화를 해야함 -> 테스트 코드를 작성해서 테스트 시스템이 자동으로 확인을 해줄 수 있게 하는 것
+
+- 테스트 자동화를 통해 얻을 수 있는 점
+ - 협업할때, 다른사람의 코드를 조금 수정했는데 그 사람이 만든 기능이 조금 고장났는데, 그걸 모르고 넘어갈 때가 많다.
+ - 이럴때 테스트 자동화가 되어 있었으면, 코드가 제대로 작동하는지, 고장났는지 쉽게 판단 가능
+ - 또한, 리팩토링후에, 코드가 이전과 같이 잘 작동하는지 확인이 쉽다. -> 코드의 질 향상
+ - 만약 버그가 발생했을경우, 그 버그가 발생하는 상황에 대한 테스트 코드를 작성하면, 실수를 줄일 수 있다.
+
+- 테스트의 종류
+ - 유닛(Unit) 테스트
+  - 유닛테스트는 조그만한 단위로 작성
+  - 프로젝트의 기능을 잘게잘게 쪼개서 테스트 하면, 각 기능이 잘 되는지 확인은 가능하지만, 전체적으로 잘 되는지 확인이 어려움
+  - 예) 컴포넌트가 잘 렌더링 된다 / 리덕스의 액션함수가 액션 객체를 잘 만들어낸다 등등
+
+ - 통합(Integrated) 테스트
+  - 기능들이 전체적으로 잘 되는지 확인하기 위해 사용하는 것
+  - 예) DOM 이벤트가 발생시, 원하는 UI에 변화가 잘 발생한다 /  리덕스의 우리가 원하는 액션이 잘 dispatch 된다
+
+# 결론?
+유닛테스트는 보통 한 파일말 불러와서 진행하는 반면, 통합 테스트는 여러 요소를 고려하는 과정에서 여러 파일을 불러올 수도 있다.
+그리고 한 파일에 있는 여러 기능들을 함께 사용하는 것도 통합테스트 이다.
