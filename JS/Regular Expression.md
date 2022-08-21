@@ -45,3 +45,13 @@ export const emailRegCheck = (email) => {
   return regPass.test(email);
 };
 ```
+
+# Usage
+```js
+ const reg = () => {
+    // Passed
+    if (passwordRegCheck(pw) || pw === "") return true;
+    // Failed
+    return false;
+  };
+  ```
