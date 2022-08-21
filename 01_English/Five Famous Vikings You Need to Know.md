@@ -61,8 +61,8 @@
 - Harald’s death signified the conclusive end to the Viking Age.
 - 하랄드의 죽음은 바이킹시대의 완전한 끝을 상징한다.
 
-Ragnar Lothbrok
-- 라그나 로스브록
+# Ragnar Lothbrok
+# 라그나 로스브록
 
 - Ragnar Lothbrok is as interesting a character as you’ll find in Norse folklore. 
 - 라그나 로스브록은 북유럽 민화에서 볼수있는 흥미로운 인물이다.
