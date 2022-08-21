@@ -64,17 +64,33 @@
 Ragnar Lothbrok
 - 라그나 로스브록
 
-Ragnar Lothbrok is as interesting a character as you’ll find in Norse folklore. He was said to have been a Viking hero and a Danish and Swedish king, and while he comes alive in the pages of old Norse poetry and sagas as a legendary character, evidence suggesting he actually lived does exist.
+- Ragnar Lothbrok is as interesting a character as you’ll find in Norse folklore. 
+- 라그나 로스브록은 북유럽 민화에서 볼수있는 흥미로운 인물이다.
 
-The Anglo-Saxon Chronicle, which collected the documents of Anglo-Saxon history at the time Ragnar would have lived, references ‘‘Ragnall’ and ‘Reginherus’—both these names are believed to be alternative names for Ragnar Lothbrok.
+- He was said to have been a Viking hero and a Danish and Swedish king, and while he comes alive in the pages of old Norse poetry and sagas as a legendary character, evidence suggesting he actually lived does exist.
+- 그는 노르드의 시와 사가(이야기)에서 전설적인 인물로 실제로 살았었다고 증가로 제시되는 곳에서, 바이킹의 영웅 그리고 덴마크와 스웨덴의 왕으로 불리고 있었다.
 
-The sagas he appeared in tell us that Ragnar had three wives, the last of these named Aslaug, who gave birth to three sons—-Ivar the Boneless, Bjorn Ironside, and Sigurd Snake-in-the-Eye. Significantly more evidence exists as to his sons’ validity, as they are all verified figures of history.
+- The Anglo-Saxon Chronicle, which collected the documents of Anglo-Saxon history at the time Ragnar would have lived, references ‘‘Ragnall’ and ‘Reginherus’—both these names are believed to be alternative names for Ragnar Lothbrok.
+- 앵글로색슨 연대기는 라그나가 살았던 앵글로 색슨의 역사 문서들을 모아두었는데, "Ragnall" 랑 "Reginherus" 둘다 라그나 로스브록의 또 다른 이름들로 여겨지고 있다.
 
-Ragnar appears in countless tales of battles and raids, leading to his capture by the Anglo-Saxon King Ælla of Northumbria, who tossed him into a pit of snakes following a failed invasion. The stories The Saga of Ragnar Lothrbok, Tale of Ragnar's Sons, and Heimskringla, all tell of Ragnar’s sons raising a Great Heathen Army to take their revenge on Ælla for killing their father.
+- The sagas he appeared in tell us that Ragnar had three wives, the last of these named Aslaug, who gave birth to three sons—-Ivar the Boneless, Bjorn Ironside, and Sigurd Snake-in-the-Eye. 
+- 사가에서 그는 3명의 아내가 있다고 하는데, 그중 마지막 아내의 이름은 아슬라우그 였고, 그녀는 3명의 아들을 낳았다 - Ivar the Boneless, Bjorn Ironside, and Sigurd Snake-in-the-Eye
 
-The snake-pit-death seems entirely mythological in nature, and most historians believe that if Ragnar did in fact exist, he more likely died during his travels across the Irish Sea between 852 and 856 AD.
+- Significantly more evidence exists as to his sons’ validity, as they are all verified figures of history.
+- 그의 아들들에 타당성에 대해서는 상당히 더 많은 증거가 존재하는데, 그것들은 모두 검증된 역사이다.
 
-While Ragnar Lothbrok led a life that became legend, or was born a myth, he has become a fascinating figure in history and popular culture and inspired a great many works of literature, cinema, television, and videogames.
+- Ragnar appears in countless tales of battles and raids, leading to his capture by the Anglo-Saxon King Ælla of Northumbria, who tossed him into a pit of snakes following a failed invasion.
+- 라그나는 셀수없이 많은 전투와 습격에 등장하고, 그는 앵글로색슨의 왕 노섬브리아의 엘라에게 잡혀서 침략실패의 대가로 뱀 구덩이로 던져졌다.
+
+-  The stories The Saga of Ragnar Lothrbok, Tale of Ragnar's Sons, and Heimskringla, all tell of Ragnar’s sons raising a Great Heathen Army to take their revenge on Ælla for killing their father.
+-  라그나 로스브록의 사가에 관한 스토리들은 모든 라그나의 아들들이 아버지를 죽인 엘라에게 복수하기 위해 군대를 키운다는 이야기 이다.
+
+- The snake-pit-death seems entirely mythological in nature, and most historians believe that if Ragnar did in fact exist, he more likely died during his travels across the Irish Sea between 852 and 856 AD.
+- 뱀의 구덩이에서 죽는다는건 전체적으로 신화 얘기로 보이고, 대부분 역사학자들은 그가 실제로 존재했다면, 그는 852-856 사이에 아일랜드 바다를 지나다가 죽었다고 본다.
+
+- While Ragnar Lothbrok led a life that became legend, or was born a myth, he has become a fascinating figure in history and popular culture and inspired a great many works of literature, cinema, television, and videogames.
+- 라그나 로스부록의 삶이 전설이 되거나 신화로 태어나는 동안, 그는 역사와 대중문화에서 매력적인 인물이 되었고, 많은 문학, 영화, 게임에 영감을 주었다.
+
 Cnut the Great
 AKA: Canute/Knut
 
