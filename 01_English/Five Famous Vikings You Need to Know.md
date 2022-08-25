@@ -91,12 +91,33 @@
 - While Ragnar Lothbrok led a life that became legend, or was born a myth, he has become a fascinating figure in history and popular culture and inspired a great many works of literature, cinema, television, and videogames.
 - 라그나 로스부록의 삶이 전설이 되거나 신화로 태어나는 동안, 그는 역사와 대중문화에서 매력적인 인물이 되었고, 많은 문학, 영화, 게임에 영감을 주었다.
 
-Cnut the Great
+# Cnut the Great
+# 크누트 대왕
 AKA: Canute/Knut
 
-Cnut the Great held many great titles in his life as the Danish king of England, Denmark, and Norway. After winning the English throne in 1016 AD, his brutality in the first few years of his rule is notable, as he killed any English opponent to his crown swiftly and ruthlessly. However, he soon became a peaceful and effective ruler, easing England back into a time of prosperity.
+- Cnut the Great held many great titles in his life as the Danish king of England, Denmark, and Norway. 
+- 크누트대왕은 그의 삶동안 잉글랜드, 덴마크, 노르웨이에서 덴마크 왕으로 살면서 많은 위대한 칭호들을 보유했다.
 
-Cnut is perhaps best known for the story of King Canute and the Tide. Recorded by Henry of Huntingdon in the 12th century, the tale paints Cnut very favourably and shines a light on his "graceful and magnificent" behaviour. The story goes that Cnut places his throne by the sea and commands the tide to halt so his feet and clothes remain dry. The tide continues to rise, disregarding the royalty before it, and splashes Cnut. Humbled by this act of nature, Cnut declares, “let all men know how empty and worthless is the power of kings, for there is none worthy of the name, but He whom heaven, earth, and sea obey by eternal laws.” He then hung his crown on a crucifix and never wore it again.
+- After winning the English throne in 1016 AD, his brutality in the first few years of his rule is notable, as he killed any English opponent to his crown swiftly and ruthlessly. 
+- 1016년 영국의 왕좌를 차지한후, 그의 통치 첫 몇년동안의 잔혹함은 주목할만한데, 그는 그의 상대 영국인들을 그가 왕관을 차지하기위해 빠르고 잔인하게 죽였기 때문이다.
+
+- However, he soon became a peaceful and effective ruler, easing England back into a time of prosperity.
+- 그러나, 그는 곧 평화롭고 효과적인 통치자가 되었고, 영국을 번영의 시기로 완화시켰다.
+
+- Cnut is perhaps best known for the story of King Canute and the Tide. 
+- 크누트는 아마도 크누트왕과 밀물에 대한 이야기로 잘 알려져 있다. 
+
+- Recorded by Henry of Huntingdon in the 12th century, the tale paints Cnut very favourably and shines a light on his "graceful and magnificent" behaviour. 
+- 12세기의 헨리 헌팅턴이 기록한 이 이야기는 크누트가 매우 호의적이고 그의 우아하고 위엄있는 행동들을 밝게 조명한다. 
+
+- The story goes that Cnut places his throne by the sea and commands the tide to halt so his feet and clothes remain dry. 
+- 이 이야기는 크누트가 그의 왕좌를 바닷가에 두고, 밀물을 멈추게 하여서 그의 발과 옷이 계속 마른 상태로 있게 한다는 이야기 이다.
+
+- Humbled by this act of nature, Cnut declares, “let all men know how empty and worthless is the power of kings, for there is none worthy of the name, but He whom heaven, earth, and sea obey by eternal laws.” 
+- 이 자연의 겸손한 행동에 크누트는 모든 사람들이 하늘, 땅 바다가 복종하는 사람 외에 왕들의 힘이 얼마나 가치없는지 알게하라고 선언했다.
+
+- He then hung his crown on a crucifix and never wore it again.
+- 그는 그 후로 왕관을 십자가에 걸고 다시는 쓰지 않았다.
 
 In more recent years, the story of King Canute and the Tide is told in a way that paints Cnut to be arrogant to believe the sea would bend to his will, leading to his humiliation when it did not obey. The anecdote is often used by political pundits to embarrass arrogant politicians who believe they can control events.
 Rollo of Normandy
