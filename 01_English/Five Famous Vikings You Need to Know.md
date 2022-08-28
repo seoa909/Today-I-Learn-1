@@ -119,8 +119,9 @@ AKA: Canute/Knut
 - He then hung his crown on a crucifix and never wore it again.
 - 그는 그 후로 왕관을 십자가에 걸고 다시는 쓰지 않았다.
 
-In more recent years, the story of King Canute and the Tide is told in a way that paints Cnut to be arrogant to believe the sea would bend to his will, leading to his humiliation when it did not obey. The anecdote is often used by political pundits to embarrass arrogant politicians who believe they can control events.
-Rollo of Normandy
+# Rollo of Normandy
+# 노르망디의 롤로
+
 AKA: Rollon/Rolf
 
 Rollo’s heritage is unknown, yet many historians have different ideas about where he came from. Dudo of Saint-Quentin, a Norman historian, claims that Rollo was an aristocrat from Denmark, while William of Malmesbury reports he was from Norway, and also of noble lineage.
