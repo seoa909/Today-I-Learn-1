@@ -94,3 +94,4 @@ yarn start 가 최상단에서 제대로 되는지
 
 
 ```
+https://www.youtube.com/watch?v=ACDGXHR_YmI
