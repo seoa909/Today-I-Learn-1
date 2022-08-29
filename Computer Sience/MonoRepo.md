@@ -28,6 +28,7 @@
 
 - 세팅방법
 ```js
+React, Node.js
 1. yarn init -y 로 폴더 최상단에 package.json 생성
  - 이 package.json은 전체적인 workspace 관리할 예정.
 
