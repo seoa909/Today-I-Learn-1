@@ -21,4 +21,78 @@
 
 
 - 관리방법
-- ![zcscsadadad](https://user-images.githubusercontent.com/59503331/187052919-5806829b-a00e-4e97-983b-c95886f52ccc.png)
+
+![zxczxc](https://user-images.githubusercontent.com/59503331/187306325-44ceab8d-41c4-431c-ae07-75a4140f2ac6.PNG)
+
+
+
+- 세팅방법
+```js
+React, Node.js
+1. yarn init -y 로 폴더 최상단에 package.json 생성
+ - 이 package.json은 전체적인 workspace 관리할 예정.
+
+2. mkdir server 로 폴더에 server 폴더를 생성
+3. cd server로 폴더안에 들어가서 다시 server용 pakage.json 생성 -> yarn init -y
+
+4. cd ../ 로 다시 폴더 밖으로 나와서 client 폴더 생성
+ - yarn create vite
+
+5. 최상단 pakage.json에 아래처럼 추가
+{
+  "name": "React-Vite-GraphQL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "server",
+    "client"
+  ],
+  "scripts": {
+    "start": "concurrently \"yarn workspace server start\" \"yarn workspace client run dev"
+  },
+  "devDependencies": {
+    "concurrently": "^7.3.0"
+  }
+}
+
+6. yarn workspace server add express -> 서버에 express 추가
+7. yarn workspace server add nodemon -D -> 서버에 nodemon 추가
+
+8. 서버용 pakage.json 아래처럼
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
+
+9. server 폴더에 index.js 만들기
+const express = require("express");
+
+const port = 3200;
+
+const app = express();
+
+app.listen(port, () => {
+  console.log(`server is running on ${port}`);
+});
+
+10. 최상단 폴더에 yarn add concurrently -D 받고
+최상단 pakage.json 확인후
+
+yarn start 가 최상단에서 제대로 되는지 
+
+
+```
+https://www.youtube.com/watch?v=ACDGXHR_YmI
