@@ -1,25 +1,22 @@
-import { useObserver } from "mobx-react";
-import indexStore from "./modules/indexStore";
+import React from "react";
+import { useNavigate } from "react-router-dom";
+import Routing from "./components/Routing";
 
-const App = () => {
-  const { numberStore } = indexStore();
-
-  const onClickIncrease = () => {
-    numberStore.increaseAction(1);
+export const App = () => {
+  const navigate = useNavigate();
+  const onCounterLink = () => {
+    navigate("/counter");
   };
 
-  const onClickDecrease = () => {
-    numberStore.decreaseAction(1);
+  const onCRUDLink = () => {
+    navigate("/crud");
   };
-
-  return useObserver(() => (
+  return (
     <div>
-      <p>현재 값: {numberStore.num}</p>
-
-      <button onClick={onClickIncrease}>증가</button>
-      <button onClick={onClickDecrease}>감소</button>
+      <h1>MOBX EXAMPLES</h1>
+      <button onClick={onCounterLink}>Counter</button>
+      <button onClick={onCRUDLink}>CRUD</button>
+      <Routing />
     </div>
-  ));
+  );
 };
-
-export default App;
