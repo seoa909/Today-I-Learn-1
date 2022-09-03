@@ -1,13 +1,12 @@
-import { inject, useObserver } from "mobx-react";
+import { useObserver } from "mobx-react";
 import { useEffect } from "react";
-import indexStore from "../modules/indexStore";
+import { useStore } from "../components/hooks/useStore";
 
 const CRUD = () => {
-  const { userStore } = indexStore();
-  const store = new userStore();
+  const crudStore = useStore("newUserStore");
 
   useEffect(() => {
-    store.getUserAction();
+    crudStore.getUserAction();
   }, []);
 
   return useObserver(() => (

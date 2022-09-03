@@ -1,9 +1,11 @@
+import React from "react";
 import numberStore from "./numberStore";
 import userStore from "./userStore";
 
-const indexStore = () => ({
+export const indexStore = Object.freeze({
   numberStore,
-  userStore,
+  newUserStore: new userStore(),
 });
 
-export default indexStore;
+export const storesContext = React.createContext(indexStore);
+export const StoresProvider = storesContext.Provider;

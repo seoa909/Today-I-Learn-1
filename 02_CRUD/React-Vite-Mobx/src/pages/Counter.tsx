@@ -1,8 +1,8 @@
 import { useObserver } from "mobx-react";
-import indexStore from "../modules/indexStore";
+import { useStore } from "../components/hooks/useStore";
 
 const Counter = () => {
-  const { numberStore } = indexStore();
+  const numberStore = useStore("numberStore");
 
   const onClickIncrease = () => {
     numberStore.increaseAction(1);
