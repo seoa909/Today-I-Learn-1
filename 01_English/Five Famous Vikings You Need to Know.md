@@ -124,25 +124,14 @@ AKA: Canute/Knut
 
 AKA: Rollon/Rolf
 
-Rollo’s heritage is unknown, yet many historians have different ideas about where he came from. Dudo of Saint-Quentin, a Norman historian, claims that Rollo was an aristocrat from Denmark, while William of Malmesbury reports he was from Norway, and also of noble lineage.
+- Rollo’s heritage is unknown, yet many historians have different ideas about where he came from. 
+- 롤로의 유산은 알려지지 않았지만, 많은 역사학자들은 그가 어디에서 왔는지에 대해 다른 생각이 있다.
 
-However, we can be sure that he was a Viking chief who led raids, as chronicles from the time regarding Viking raids in Rouen coincide with reports of his life. Scandinavian sagas tell the tale of Rollo sailing off to raid England, Scotland, and France, where he would eventually establish himself as ruler.
+- Dudo of Saint-Quentin, a Norman historian, claims that Rollo was an aristocrat from Denmark, while William of Malmesbury reports he was from Norway, and also of noble lineage.
+- 노르만의 역사학자 세인트-쿠엔틴의 두도는 롤로가 덴마크 출신의 귀족이어ㅓㅆ다고 주장하는 반면에, 말메스베리의 윌리엄은 그가 노르웨이 출신이고 역시 귀족이었다고 보고했다.
 
-In the 10th century, after razing Rouen, Rollo became the first ruler of Normandy after striking a deal with the King of France, and brought his unique brand of Viking rule to the people. Personal honour and responsibility were his main concern as he reformed many passive laws, including making theft, assault, murder, and even fraud punishable by death.
-
-Rollo’s legacy lives on to this day, as one of his descendants still sits on the throne. He is the great-great-great grandfather of William the Conqueror, who became the first Norman King of England in 1066 and therefore related to the current British Royal Family and the reigning Queen Elizabeth II.
-
-
-A statue of Rollo of Normandy in Rouen, France
-Erik the Red
-AKA: Erik Thorvaldsson
-
-The second banishment would occur after the theft of ornamental beams Erik wanted to use to build his new home, which resulted in a chase, three killings, and another exile.
-
-With a new home to be sought, Erik founded the first Viking settlement in Greenland after heading out to sea. When his exile was over, he returned to Iceland and convinced people to join him on this new and prosperous island and became rich and respected as a ruler.
-
-Check out more tales about the Viking era with our look at their hygiene habits, their naval tactics, the true story of Loki, and more!
-
+- However, we can be sure that he was a Viking chief who led raids, as chronicles from the time regarding Viking raids in Rouen coincide with reports of his life.
+- 그러나 루앙에서의 바이킹 습격에 관한 당시의 연대기들이 그의 생애에 대한 보고와 일치하기 때문에, 우리는 그가 약탈을 주도한 바이킹 족장이라고 확신할 수 있다.
 
 단어정리
 - most notably: 가장 주목할만한
