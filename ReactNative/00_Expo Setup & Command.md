@@ -37,3 +37,8 @@ expo Go
 ```
 expo install expo-status-bar
 ```
+
+- Navigate
+```
+yarn add @react-navigation/native
+```
