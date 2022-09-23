@@ -4,9 +4,11 @@ import { useStore } from "../components/hooks/useStore";
 
 const CRUD = () => {
   const crudStore = useStore("newUserStore");
+  const { list } = crudStore;
 
   useEffect(() => {
     crudStore.getUserAction();
+    console.log(list);
   }, []);
 
   return useObserver(() => (
