@@ -1,0 +1,29 @@
+- Sign Up and Sign In
+```
+https://expo.dev/
+```
+
+- Install through CMD
+```
+npm install -g expo-cli
+```
+
+- Check version through CMD
+```
+expo --version
+```
+
+- Sign in through CMD
+```
+expo login
+```
+
+- Init through VS code
+```
+expo init
+```
+
+- Start Command
+```
+expo start
+```
