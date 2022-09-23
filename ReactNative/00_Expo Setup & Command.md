@@ -32,3 +32,8 @@ expo start
 ```
 expo Go
 ```
+
+- Status Bar
+```
+expo install expo-status-bar
+```
