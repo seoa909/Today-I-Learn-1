@@ -27,3 +27,8 @@ expo init
 ```
 expo start
 ```
+
+- Download in Appstore or Android Market
+```
+expo Go
+```
