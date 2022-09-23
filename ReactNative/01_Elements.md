@@ -26,6 +26,10 @@
 6. <Image></Image>
 - source, resizeMode properties 
 
+7. <StatusBar />
+<StatusBar barStyle="light-content" />
+<StatusBar barStyle="dark-content" />
+
 ```
 
 
