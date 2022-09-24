@@ -69,13 +69,14 @@ export default StackNavigator;
 import React from "react";
 import {
   ScrollView,
-  StyleSheet,
   View,
   Image,
   Text,
   TouchableOpacity,
   StatusBar,
 } from "react-native";
+
+import { styles } from "./Styles";
 
 const Anna = ({ navigation }) => {
   return (
@@ -119,62 +120,6 @@ const Anna = ({ navigation }) => {
 
 export default Anna;
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: "#000080",
-  },
-  ProfileBox: {
-    height: 300,
-    margin: 40,
-    justifyContent: "center",
-    alignItems: "center",
-  },
-  ExplainBox: {
-    backgroundColor: "#fff",
-    alignItems: "flex-start",
-    marginTop: 0,
-    margin: 50,
-    borderRadius: 30,
-    padding: 15,
-  },
-  ButtonBox: {
-    width: "100%",
-    alignItems: "center",
-  },
-  FlexBox: {
-    flex: 1,
-  },
-  imageStyle: {
-    width: "100%",
-    height: "100%",
-    alignItems: "center",
-    justifyContent: "center",
-    borderRadius: 999,
-  },
-  textStyle: {
-    color: "#000080",
-    textAlign: "center",
-    fontSize: 20,
-    fontWeight: "bold",
-    marginTop: 5,
-    marginBottom: 5,
-  },
-  buttonStyle: {
-    width: 200,
-    backgroundColor: "yellow",
-    borderRadius: 30,
-    marginTop: 10,
-    padding: 10,
-  },
-  themeStyle: {
-    width: "100%",
-    backgroundColor: "pink",
-    borderRadius: 20,
-    padding: 5,
-  },
-});
-
 ```
 
 # Elsa.js
@@ -182,13 +127,14 @@ const styles = StyleSheet.create({
 import React from "react";
 import {
   ScrollView,
-  StyleSheet,
   View,
   Image,
   Text,
   TouchableOpacity,
   StatusBar,
 } from "react-native";
+
+import { styles } from "./Styles";
 
 const Elsa = ({ navigation }) => {
   return (
@@ -230,7 +176,13 @@ const Elsa = ({ navigation }) => {
 
 export default Elsa;
 
-const styles = StyleSheet.create({
+```
+
+# Styles.js
+```js
+import { StyleSheet } from "react-native";
+
+export const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: "#000080",
