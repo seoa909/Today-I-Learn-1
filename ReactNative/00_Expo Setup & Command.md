@@ -41,5 +41,6 @@ expo install expo-status-bar
 - Navigate
 ```
 yarn add @react-navigation/native
+yarn add @react-navigation/stack
 expo install react-native-screens react-native-safe-area-context react-native-gesture-handler
 ```
