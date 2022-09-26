@@ -18,13 +18,16 @@ module.exports = function (api) {
           alias: {
             // This needs to be mirrored in tsconfig.json
             components: "./src/components",
-            buttons: "./src/components/buttons",
+            hooks: "./src/hooks",
+            shared: "./src/shared",
+            pages: "./src/pages",
           },
         },
       ],
     ],
   };
 };
+
 
 ```
 
@@ -39,10 +42,12 @@ module.exports = function (api) {
     "baseUrl": ".",
     "paths": {
       "components/*": ["src/components/*"],
-
-      "buttons": ["src/components/buttons/index"]
+      "pages/*": ["src/pages/*"],
+      "hooks/*": ["src/hooks/*"],
+      "shared/*": ["src/shared/*"]
     }
   }
 }
+
 
 ```
