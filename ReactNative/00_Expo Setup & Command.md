@@ -45,3 +45,18 @@ yarn add @react-navigation/stack
 yarn add @react-navigation/elements
 yarn add react-native-screens react-native-safe-area-context react-native-gesture-handler
 ```
+
+- Location
+```
+expo install expo-location
+```
+
+firebase
+```
+expo install firebase
+```
+
+Link
+```
+expo install expo-linking
+```
