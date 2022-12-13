@@ -62,6 +62,14 @@ export default defineConfig({
 ```
 
 # tsconfig.vite.json -> original name was tsconfig.node.json
+tsconfig.json's reference change like below
+
+```"references": [{ "path": "./tsconfig.vite.json" }]```
+
+tsconfig.node.json vs tsconfig.json
+-> tsconfig.json is for src
+-> tsconfig.node.json is for vite
+
 ```js
 {
   "compilerOptions": {
