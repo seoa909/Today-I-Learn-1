@@ -1,0 +1,12 @@
+# Start
+
+```js npm create vite@latest [project-name] --template react```
+
+choose React and TypeScript
+
+still need to install the basic pacakges 
+```js npm i ```
+
+
+# Start Command
+```js npm run dev ```
