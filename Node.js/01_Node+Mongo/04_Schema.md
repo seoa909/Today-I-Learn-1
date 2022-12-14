@@ -33,6 +33,6 @@ const userRegiSchema = mongoose.Schema({  // Schema 작성시작
   },
 });
 
-const User = mongoose.model('UserRegi', userRegiSchema); // Schema를 model로 감싸준다. 
+const UserRegi = mongoose.model('UserRegi', userRegiSchema); // Schema를 model로 감싸준다. 
 module.exports = { UserRegi }; // export
 ```
