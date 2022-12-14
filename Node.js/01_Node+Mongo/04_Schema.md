@@ -16,12 +16,16 @@ models 라는 폴더를 하나 만들고 안에 register.js 라는 파일을 만
 ```js
 const mongoose = require('mongoose'); // mongoose 선언
 
-const userRegiSchema = mongoose.Schema({  // Schema 작성시작
+const userSchema = mongoose.Schema({  // Schema 작성시작
   email: {
     type: String,
-    maxLength: 50,
+    maxLength: 30,
     trim: true, // 여백 삭제
     unique: 1, // 중복금지, 1 은 true를 뜻함
+  },
+  password: {
+    type: String,
+    minlength: 5,
   },
   // 로그인시 프론트에 보내줄 jwt 토큰
   token: {
@@ -32,7 +36,7 @@ const userRegiSchema = mongoose.Schema({  // Schema 작성시작
     type: Number,
   },
 });
+const UserRegi  = mongoose.model("register", userSchema);
 
-const UserRegi = mongoose.model('UserRegi', userRegiSchema); // Schema를 model로 감싸준다. 
-module.exports = { UserRegi }; // export
+module.exports = { UserRegi };
 ```
