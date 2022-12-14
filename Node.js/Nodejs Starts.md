@@ -8,11 +8,11 @@
 
 ![aa](https://user-images.githubusercontent.com/59503331/207680771-96472de0-586c-4f7c-b86d-4dff78d6495a.PNG)
 
-### 2. 기본 패키지 설치
+### 2. 기본 패키지 설치 
 
 ```npm install express mongoose body-parser cors --save```
 
-사용할 패키지는 express mongoose body-parser 그리고 cors.
+사용할 패키지는 express mongoose body-parser 그리고 cors. (yarn 으로 설치도 상관없다)
 
 패키지를 설명하자면, 
 
