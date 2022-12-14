@@ -55,6 +55,7 @@ script를 변경해야함.
 ```npm run start``` 로 변경.
 
 실행했을때, 아래처럼 나오면 성공
+
 ![aa](https://user-images.githubusercontent.com/59503331/207714917-7bea2d9d-84fd-4c21-82f1-ac32fa2bc19d.PNG)
 
 ### 5. 확인
