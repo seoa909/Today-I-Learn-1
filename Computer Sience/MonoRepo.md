@@ -88,7 +88,7 @@ app.listen(port, () => {
   console.log(`server is running on ${port}`);
 });
 
-10. 최상단 폴더에 yarn add concurrently -D 받고
+10. 최상단 폴더에 yarn add concurrently -D 받고 -> 에러나면, 패키지 제이슨에 이미 있나없나 확인, 있으
 최상단 pakage.json 확인후
 
 yarn start 가 최상단에서 제대로 되는지 
