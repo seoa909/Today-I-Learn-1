@@ -36,6 +36,7 @@ OAuth | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sie
 # Issues - React
 Content | Link |
 --- | --- | 
+[React] "JSX element implicitly has type 'any' | https://github.com/kevinkim910408/Today-I-Learn/issues/8 |
 [TypeScript] Cannot find 'node_modules/typescript/lib/lib.d.ts' in tsconfig file | https://stackoverflow.com/questions/74760673/cannot-find-node-modules-typescript-lib-lib-d-ts-in-tsconfig-file |
 
 # Issues - Redux
