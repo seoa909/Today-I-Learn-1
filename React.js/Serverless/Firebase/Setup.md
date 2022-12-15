@@ -36,3 +36,15 @@ export const db = getFirestore(app);
 export const storage = getStorage();
 
 ```
+
+# .env 샘플
+
+```js
+REACT_APP_API_KEY = 
+REACT_APP_AUTH_DOMAIN = 
+REACT_APP_PROJECTID =
+REACT_APP_STORAGEBUCKET = 
+REACT_APP_MESSAGINGSENDERID = 
+REACT_APP_APPID = 
+REACT_APP_MEASUREMENTID = 
+```
