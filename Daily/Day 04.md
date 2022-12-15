@@ -39,6 +39,12 @@ side bar를 fixed로 해서 100vh로 전체 height 만큼 보여주고 싶었는
 
 제대로 보니 display:fixed를 주고 있었던것.. 얼렁 position:fixed로 변경했다.. (30분소모)..
 
+---------------------
+
+못한거:
+
+노드공부를 못했다..
+
 ------------------------
 
 오늘은 freezing rain, heavy snow and wind 미친날씨다..
