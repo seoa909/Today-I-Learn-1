@@ -113,7 +113,7 @@ const cors = require("cors");
 const app = express();
 
 var corsOptions = {
-  origin: "http://localhost:8081",
+  origin: "http://localhost:5173",
 };
 
 app.use(cors(corsOptions));
@@ -155,7 +155,7 @@ const { UserRegi } = require('./models/register');
 const app = express();
 
 var corsOptions = {
-  origin: "http://localhost:8081"
+  origin: "http://localhost:5173"
 };
 
 app.use(cors(corsOptions));
@@ -266,7 +266,7 @@ const { UserRegi } = require('./models/register');
 const app = express();
 
 var corsOptions = {
-  origin: "http://localhost:8081"
+  origin: "http://localhost:5173"
 };
 
 app.use(cors(corsOptions));
@@ -335,3 +335,176 @@ json 샘플
 
 이제 회원가입에 대한 정보를 서버는 받을 준비가 됬고,
 프론트에서 데이터를 api주소에 보내줬을때, db에 잘 들어갔는지를 체크하면 된다. (11000에러는 중복이 있는거니, 아까 넣은 데이터는 삭제)
+
+
+# 다시 client로
+설치
+```yarn workspace client add @reduxjs/toolkit react-redux @types/react-redux```
+
+# Redux 세팅
+
+Client의 src파일안에 redux 라는 폴더를 만들고 안에, store.ts 그리고 userSlice.ts 생성
+
+store.ts
+```js
+import { configureStore } from "@reduxjs/toolkit";
+import { useDispatch } from "react-redux";
+import userSlice from "./userSlice";
+
+const store = configureStore({
+  reducer: {
+    user: userSlice,
+  },
+});
+
+export type RootState = ReturnType<typeof store.getState>;
+export type AppDispatch = typeof store.dispatch;
+export const useAppDispatch = () => useDispatch<AppDispatch>();
+
+export default store;
+
+```
+
+userSlice.ts (로컬이니까 env는 생략)
+```js
+import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
+import axios from "axios";
+
+interface Register {
+  email: string;
+  name: string;
+  age: string;
+  region: string;
+  pw: string;
+  occupation: string;
+}
+
+export const __register = createAsyncThunk(
+  "users/register",
+  async (payload: Register) => {
+    try {
+      const result = await axios({
+        method: "POST",
+        url: `http://localhost:8080/regi`,
+        headers: {},
+        data: payload,
+      });
+      console.log(result.data);
+      return result.data;
+    } catch (error) {
+      return error;
+    }
+  }
+);
+export const userSlice = createSlice({
+  name: "user",
+  initialState: {
+    info: [],
+    loading: false,
+    error: null,
+  },
+  reducers: {},
+  extraReducers: {
+    [__register.pending.type]: (state, action) => {
+      state.loading = true;
+    },
+    [__register.fulfilled.type]: (state, action) => {
+      console.log(action.payload.success);
+      state.loading = false;
+      state.error = action.payload.success;
+    },
+  },
+});
+
+export default userSlice.reducer;
+
+```
+
+main.tsx
+```js
+import React from "react";
+import ReactDOM from "react-dom/client";
+import App from "./App";
+import { Provider } from "react-redux";
+import store from "./redux/store";
+
+ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
+  <React.StrictMode>
+    <Provider store={store}>
+      <App />
+    </Provider>
+  </React.StrictMode>
+);
+
+```
+
+App.tsx
+```js
+import { useEffect, useState } from "react";
+import "./App.css";
+import { RootState, useAppDispatch } from "./redux/store";
+import { __register } from "./redux/userSlice";
+import { useSelector } from "react-redux";
+
+function App() {
+  const dispatch = useAppDispatch();
+  const { loading, error } = useSelector((state: RootState) => state.user);
+  const onSubmitHandler = (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    dispatch(__register({ name, age, region, email, pw, occupation: job }));
+    alert("회원가입 성공!");
+  };
+  const [name, setName] = useState<string>("");
+  const [age, setAge] = useState<string>("");
+  const [region, setRegion] = useState<string>("");
+  const [email, setEmail] = useState<string>("");
+  const [job, setJob] = useState<string>("");
+  const [pw, setPw] = useState<string>("");
+
+  if (loading) return <div>로딩</div>;
+  if (error === false) return <div>에러</div>;
+  return (
+    <form className="wrap" onSubmit={(e) => onSubmitHandler(e)}>
+      <input
+        type="text"
+        placeholder="name"
+        onChange={(e) => setName(e.target.value)}
+      />
+      <input
+        type="number"
+        placeholder="age"
+        onChange={(e) => setAge(e.target.value)}
+      />
+      <input
+        type="txt"
+        placeholder="region"
+        onChange={(e) => setRegion(e.target.value)}
+      />
+      <input
+        type="email"
+        placeholder="email"
+        onChange={(e) => setEmail(e.target.value)}
+      />
+      <input
+        type="text"
+        placeholder="occupation"
+        onChange={(e) => setJob(e.target.value)}
+      />
+      <input
+        type="password"
+        placeholder="password"
+        onChange={(e) => setPw(e.target.value)}
+      />
+      <input type="submit" value="Submit" />
+    </form>
+  );
+}
+
+export default App;
+
+
+```
+
+다 바꿨으면 실행을 해본다.
+
+
