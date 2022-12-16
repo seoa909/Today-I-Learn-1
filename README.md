@@ -16,9 +16,9 @@ URL to Storage(blob) | https://github.com/kevinkim910408/Today-I-Learn/blob/main
 # Redux
 Content | Link |
 --- | --- | 
-Vanila + Thunk | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Redux/Redux-thunk.md |
-Toolkit Store(ts) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Redux/Redux-thunk.md |
-Toolkit CR example(ts) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Redux/Redux-thunk.md |
+Vanila + Thunk | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Redux/Redux-thunk.md |
+Toolkit Store(ts) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Redux/Toolkit%20Store%20TypeScript.md |
+Toolkit CR example(ts) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Redux/Toolkit%20CR.md |
 
 # Nodejs
 Content | Link |
