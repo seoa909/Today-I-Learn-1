@@ -507,4 +507,7 @@ export default App;
 
 다 바꿨으면 실행을 해본다.
 
+아래처럼 데이터가 들어오면 성공.(한번 일부로 같은 이메일을 넣어서 에러 페이지가 뜨는지도 체크해본다.)
+
+![s](https://user-images.githubusercontent.com/59503331/208175936-6600cfc1-c74c-4ff2-bff9-4a36a6fd8010.PNG)
 
