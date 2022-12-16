@@ -1,7 +1,6 @@
 # Reactjs
 Content | Link |
 --- | --- | 
-문자열에서 대문자 만나면 공백넣기 (정규식) | https://url.kr/ydhmwf  | 
 반응형(lib) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/useMediaQuery.md | 
 스타일컴포넌트(type) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Styled-Components%20Type.md |
 차트 (Nivo) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/Charts%20(Nivo).md |
@@ -10,6 +9,10 @@ Progress Bar | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.j
 Vite | https://github.com/kevinkim910408/Today-I-Learn/tree/main/React.js/Vite |
 여기서부턴 | React + Firebase |
 URL to Storage(blob) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serverless/Firebase/URL%20to%20Storage.md |
+여기서부턴 | 정규식 |
+문자열에서 대문자 만나면 공백넣기 (정규식) | https://url.kr/ydhmwf  | 
+숫자열에 콤마 집어넣기 (정규식) | https://url.kr/2mjk9v  | 
+
 
 # Redux
 Content | Link |
