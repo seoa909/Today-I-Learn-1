@@ -28,7 +28,7 @@ Node + MongoDB Start | https://github.com/kevinkim910408/Today-I-Learn/tree/main
 # MERN
 Content | Link |
 --- | --- | 
-MERN | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/02_MERN%20CRUD |
+MERN CRUD (회원) | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/02_MERN%20CRUD |
 
 # React Native
 Content | Link |
