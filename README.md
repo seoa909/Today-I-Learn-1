@@ -43,6 +43,7 @@ Big-O | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sie
 HTTP VS HTTPS | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/HTTP%20VS%20HTTPS.md |
 MonoRepo | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/MonoRepo.md |
 OAuth | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/OAuth.md |
+Pip upgrade | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/pip%20Upgrade.md |
 
 # Issues - React
 Content | Link |
