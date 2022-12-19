@@ -47,6 +47,11 @@ MonoRepo | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20
 OAuth | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/OAuth.md |
 Pip upgrade | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/pip%20Upgrade.md |
 
+# Shopify
+Content | Link |
+--- | --- | 
+Folder | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Shopify |
+
 # Issues - React
 Content | Link |
 --- | --- | 
