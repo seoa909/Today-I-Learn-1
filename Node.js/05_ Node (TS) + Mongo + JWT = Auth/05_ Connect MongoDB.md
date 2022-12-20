@@ -54,6 +54,7 @@ import logging from './config/logging';
 import config from './config/config';
 import userRoutes from './routes/user';
 import mongoose from 'mongoose';
+mongoose.set('strictQuery', true);
 
 const NAMESPACE = 'Server';
 const router = express();
