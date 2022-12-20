@@ -26,6 +26,8 @@ Toolkit CR example(ts) | https://github.com/kevinkim910408/Today-I-Learn/blob/ma
 Content | Link |
 --- | --- | 
 Node + MongoDB Start | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/01_Node%2BMongo |
+Node + TypeScript Start | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/03_%20Node%20%2B%20TypeScript |
+Node(TS) + MySQL Start | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/04_%20Node%20(TS)%20+%20MySQL |
 
 # MERN
 Content | Link |
