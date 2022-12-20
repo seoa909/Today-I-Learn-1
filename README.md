@@ -28,6 +28,7 @@ Content | Link |
 Node + MongoDB Start | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/01_Node%2BMongo |
 Node + TypeScript Start | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/03_%20Node%20%2B%20TypeScript |
 Node(TS) + MySQL Start | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/04_%20Node%20(TS)%20+%20MySQL |
+Node(TS) + Mongo + JWT | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/05_%20Node%20(TS)%20%2B%20Mongo%20%2B%20JWT%20%3D%20Auth |
 
 # MERN
 Content | Link |
