@@ -76,6 +76,7 @@ Content | Link |
 --- | --- | 
 11000 Error | DB에 중복된게 있다는 에러 |
 the strictQuery option will be switched back.... | https://github.com/kevinkim910408/Today-I-Learn/issues/7 |
+MongoParseError: options poolsize.... | https://github.com/kevinkim910408/Today-I-Learn/issues/9 |
 
 # Issues - Flutter
 Content | Link |
