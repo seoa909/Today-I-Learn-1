@@ -36,9 +36,10 @@ const app: Application = express()
 
 const port: number = 3001
 
-app.get(req: Request, res: Response) => {
-    res.send('Hello ')
-})
+app.get("/", (req: Request, res: Response) => {
+  res.json({ message: "Welcome to first node server." });
+});
+
 
 app.listen(port, function () {
     console.log(`App is listening on port ${port} !`)
