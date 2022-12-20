@@ -191,3 +191,34 @@ httpServer.listen(config.server.port, () =>
   )
 );
 ```
+
+.prettierrc
+```js
+{
+    "singleQuote": true,
+    "printWidth": 200,
+    "proseWrap": "always",
+    "tabWidth": 4,
+    "useTabs": false,
+    "trailingComma": "none",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "semi": true
+}
+```
+
+.gitignore
+```js
+node_modules/**/*
+build/**/*
+certs/**/*
+
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+package-lock.json
+```
