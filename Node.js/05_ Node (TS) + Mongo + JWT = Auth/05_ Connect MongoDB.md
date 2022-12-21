@@ -14,9 +14,9 @@ const SERVER_PORT = process.env.SERVER_PORT || 1337;
 const SERVER_TOKEN_EXPIRETIME = process.env.SERVER_TOKEN_EXPIRETIME || 3600;
 const SERVER_TOKEN_ISSUER = process.env.SERVER_TOKEN_ISSUER || 'Kevin Kim';
 const SERVER_TOKEN_SECRET = process.env.SERVER_TOKEN_SECRET || 'supersecured';
-const MONGO_USERNAME = process.env.MONGO_USERNAME || 'test';
-const MONGO_PASSWORD = process.env.MONGO_PASSWORD || 'test';
-const MONGO_HOST = process.env.MONGO_HOST || 'cluster0.e7qilzf.mongodb.net/?retryWrites=true&w=majority';
+const MONGO_USERNAME = process.env.MONGO_USERNAME || 'USERNAME';
+const MONGO_PASSWORD = process.env.MONGO_PASSWORD || 'PASSWORD';
+const MONGO_HOST = process.env.MONGO_HOST || 'CLUSTER URL';
 
 const MONGO = {
     host: MONGO_HOST,
