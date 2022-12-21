@@ -2,7 +2,7 @@
 
 ```js
 const {
-	VITE_SERVER: "http://localhost:5001",
+	VITE_APP_SERVER: "http://localhost:5001",
 } = import.meta.env
 ```
 
@@ -14,5 +14,5 @@ VITE_APP_SERVER="http://localhost:5001"
 
 # 사용 
 ```js
-import.meta.env.VITE_SERVER,
+import.meta.env.VITE_APP_SERVER,
 ```
