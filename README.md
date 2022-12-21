@@ -8,7 +8,7 @@ Content | Link |
 현재 URL | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Components%20%26%20Functions/Get%20URL.md |
 현재 URL 복사 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/react-copy-to-clipboard.md |
 Progress Bar | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Components%20%26%20Functions/ProgressBar.md |
-Vite | https://github.com/kevinkim910408/Today-I-Learn/tree/main/React.js/Vite |
+React+Vite 관련 | https://github.com/kevinkim910408/Today-I-Learn/tree/main/React.js/Vite |
 여기서부턴 | React + Firebase |
 URL to Storage(blob) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serverless/Firebase/URL%20to%20Storage.md |
 여기서부턴 | 정규식 |
@@ -40,6 +40,11 @@ Content | Link |
 --- | --- | 
 Folder | https://github.com/kevinkim910408/Today-I-Learn/tree/main/ReactNative |
 
+# Vercel
+Content | Link |
+--- | --- | 
+Folder | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Vercel |
+
 # Computer Science
 Content | Link |
 --- | --- | 
@@ -60,6 +65,7 @@ Content | Link |
 --- | --- | 
 [React] "JSX element implicitly has type 'any' | https://github.com/kevinkim910408/Today-I-Learn/issues/8 |
 [TypeScript] Cannot find 'node_modules/typescript/lib/lib.d.ts' in tsconfig file | https://stackoverflow.com/questions/74760673/cannot-find-node-modules-typescript-lib-lib-d-ts-in-tsconfig-file |
+Typescript cannot find name window or document | https://github.com/kevinkim910408/Today-I-Learn/issues/11 |
 
 # Issues - Redux
 Content | Link |
@@ -77,6 +83,7 @@ Content | Link |
 11000 Error | DB에 중복된게 있다는 에러 |
 the strictQuery option will be switched back.... | https://github.com/kevinkim910408/Today-I-Learn/issues/7 |
 MongoParseError: options poolsize.... | https://github.com/kevinkim910408/Today-I-Learn/issues/9 |
+MongoDB에 데이터 한개이상 안들어갈때 | https://github.com/kevinkim910408/Today-I-Learn/issues/10 |
 
 # Issues - Flutter
 Content | Link |
