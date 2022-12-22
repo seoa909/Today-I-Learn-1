@@ -9,20 +9,35 @@ js면 뒤에 타입 지울것.
 
 ```js
 import { Layout } from "@/core/enums/Layout";
+import { ReactNode, FC } from "react";
 import { useMediaQuery } from "react-responsive";
 
-export const Desktop = ({ children }: any) => {
+export const Desktop = ({
+  children,
+}: {
+  children: JSX.Element;
+}): JSX.Element | null => {
   const isDesktop = useMediaQuery({ minWidth: Layout.PC });
   return isDesktop ? children : null;
 };
-export const Tablet = ({ children }: any) => {
+
+export const Tablet = ({
+  children,
+}: {
+  children: JSX.Element;
+}): JSX.Element | null => {
   const isTablet = useMediaQuery({
     minWidth: Layout.TABLET,
     maxWidth: Layout.PC,
   });
   return isTablet ? children : null;
 };
-export const Mobile = ({ children }: any) => {
+
+export const Mobile = ({
+  children,
+}: {
+  children: JSX.Element;
+}): JSX.Element | null => {
   const isMobile = useMediaQuery({
     minWidth: Layout.MOBILE,
     maxWidth: Layout.TABLET,
@@ -32,11 +47,20 @@ export const Mobile = ({ children }: any) => {
 
 const Example = () => (
   <div>
-    <Desktop>Desktop or laptop</Desktop>
-    <Tablet>Tablet</Tablet>
-    <Mobile>Mobile</Mobile>
+    <Desktop>
+      <p>Desktop or laptop</p>
+    </Desktop>
+    <Tablet>
+      <p>Tablet</p>
+    </Tablet>
+    <Mobile>
+      <p>Mobile</p>
+    </Mobile>
   </div>
 );
+
+export default Example;
+
 
 export default Example;
 ```
