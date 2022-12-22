@@ -22,4 +22,4 @@ Content | Link |
 --- | --- | 
 children | JSX.Element |
 onClick event value | React.MouseEvent<HTMLButtonElement> |
-children | JSX.Element |
+addEventListener function | MouseEvent |
