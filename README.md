@@ -9,6 +9,7 @@ Content | Link |
 현재 URL 복사(lib) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/react-copy-to-clipboard.md |
 Progress Bar | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Components%20%26%20Functions/ProgressBar.md |
 React+Vite 관련 | https://github.com/kevinkim910408/Today-I-Learn/tree/main/React.js/Vite |
+universal-cookie | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/universal-cookie.md |
 여기서부턴 | React + Firebase |
 Set up | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serverless/Firebase/Setup.md |
 URL to Storage(blob) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serverless/Firebase/URL%20to%20Storage.md |
@@ -28,6 +29,8 @@ Toolkit CR example(ts) | https://github.com/kevinkim910408/Today-I-Learn/blob/ma
 # Nodejs
 Content | Link |
 --- | --- | 
+res.locals | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Node.js/res.locals.md |
+jwt | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Node.js/jsonwebtoken.md |
 Node + MongoDB Start | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/01_Node%2BMongo |
 Node + TypeScript Start | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/03_%20Node%20%2B%20TypeScript |
 Node(TS) + MySQL Start | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/04_%20Node%20(TS)%20+%20MySQL |
