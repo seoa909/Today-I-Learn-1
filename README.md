@@ -10,7 +10,9 @@ Content | Link |
 Progress Bar | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Components%20%26%20Functions/ProgressBar.md |
 React+Vite 관련 | https://github.com/kevinkim910408/Today-I-Learn/tree/main/React.js/Vite |
 여기서부턴 | React + Firebase |
+Set up | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serverless/Firebase/Setup.md |
 URL to Storage(blob) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serverless/Firebase/URL%20to%20Storage.md |
+addDoc | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serverless/Firebase/addDoc.md |
 여기서부턴 | 정규식 |
 문자열에서 대문자 만나면 공백넣기 (정규식) | https://url.kr/ydhmwf  | 
 숫자열에 콤마 집어넣기 (정규식) | https://url.kr/2mjk9v  | 
