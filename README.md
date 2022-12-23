@@ -59,7 +59,8 @@ Content | Link |
 브라우저 렌더링과정 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/Browser%20Rendering%20Pipeline.md |
 Big-O | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/BIG-O-NOTATION.md |
 HTTP VS HTTPS | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/HTTP%20VS%20HTTPS.md |
-MonoRepo | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/MonoRepo.md |
+MonoRepo(vite+nodejs) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/MonoRepo(Vite%2BNode(js).md |
+MonoRepo(vite+nodets) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/MonoRepo(Vite%2BNode(ts).md |
 OAuth | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/OAuth.md |
 Pip upgrade | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/pip%20Upgrade.md |
 
