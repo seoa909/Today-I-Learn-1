@@ -42,6 +42,7 @@ Node(TS) + Mongo + JWT | https://github.com/kevinkim910408/Today-I-Learn/tree/ma
 Content | Link |
 --- | --- | 
 MERN CRUD (회원) | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/02_MERN%20CRUD |
+MERN(TS) Email Verification | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/06_%20MERN(TS)%20Email%20Verification |
 
 # React Native
 Content | Link |
@@ -63,6 +64,7 @@ MonoRepo(vite+nodejs) | https://github.com/kevinkim910408/Today-I-Learn/blob/mai
 MonoRepo(vite+nodets) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/MonoRepo(Vite%2BNode(ts).md |
 OAuth | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/OAuth.md |
 Pip upgrade | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/pip%20Upgrade.md |
+Kill Port | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/Kill%20Current%20Port.md |
 
 # Shopify
 Content | Link |
