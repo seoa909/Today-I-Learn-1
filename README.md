@@ -101,4 +101,6 @@ Content | Link |
 --- | --- | 
 adb: failed to install | https://dalgonakit.tistory.com/201 |
 Error: Not found: 'dart:ui' | restart |
+Gradle task assembleDebug failed | https://github.com/kevinkim910408/Today-I-Learn/issues/12 |
+
 
