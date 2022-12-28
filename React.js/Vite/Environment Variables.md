@@ -1,18 +1,13 @@
 # .env
 
-```js
-const {
-	VITE_APP_SERVER: "http://localhost:5001",
-} = import.meta.env
-```
+VITE_APP_SERVER="http://localhost:5000"
+VITE_TABEAU_SERVER = "aaa"
+VITE_TABEAU_TEST = "ssss"
 
-
-혹은
-```js
-VITE_APP_SERVER="http://localhost:5001"
-```
 
 # 사용 
 ```js
-import.meta.env.VITE_APP_SERVER,
+const { VITE_TABEAU_TEST } = import.meta.env;
+
+const [url] = useState(VITE_TABEAU_TEST);
 ```
