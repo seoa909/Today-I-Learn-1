@@ -55,6 +55,7 @@ sir, almost back to finch~ 라고 한마디 해주고 인사도 해주고 회사
 - 유저정보 변경시 비밀번호 2차 확인
 - 사이드바에 있는 카테고리 완성
 - fetching data to .csv or .pdf
+- 크롬 warning 고치기
 
 정도 인거같다. 뭐.. 카테고리가 오래걸리겠지..
 
