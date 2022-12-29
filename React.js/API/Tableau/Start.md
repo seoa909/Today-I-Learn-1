@@ -54,6 +54,3 @@ const OrderForcaster = () => {
 export default OrderForcaster;
 
 ```
-
-# 결과
-![asdadsa](https://user-images.githubusercontent.com/59503331/209974760-e71fb642-7e1a-46e2-ae46-c874026e2d30.PNG)
