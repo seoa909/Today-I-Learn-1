@@ -8,9 +8,10 @@ Content | Link |
 현재 URL 가져오기 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Components%20%26%20Functions/Get%20URL.md |
 현재 URL 복사(lib) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/react-copy-to-clipboard.md |
 Progress Bar | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Components%20%26%20Functions/ProgressBar.md |
+Private Route | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Private%20Routes.md |
+universal-cookie | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/universal-cookie.md |
 React + Vite 폴더 | https://github.com/kevinkim910408/Today-I-Learn/tree/main/React.js/Vite |
 React Query 폴더 | https://github.com/kevinkim910408/Today-I-Learn/tree/main/React.js/React%20Query |
-universal-cookie | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/universal-cookie.md |
 여기서부턴 | React + Firebase |
 Set up | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serverless/Firebase/Setup.md |
 URL to Storage(blob) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serverless/Firebase/URL%20to%20Storage.md |
@@ -19,6 +20,9 @@ getDoc | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serv
 여기서부턴 | 정규식 |
 문자열에서 대문자 만나면 공백넣기 (정규식) | https://url.kr/ydhmwf  | 
 숫자열에 콤마 집어넣기 (정규식) | https://url.kr/2mjk9v  | 
+여기서부턴 | API |
+Tableau | https://github.com/kevinkim910408/Today-I-Learn/tree/main/React.js/API/Tableau  | 
+
 
 # Redux
 Content | Link |
