@@ -7,6 +7,7 @@ Content | Link |
 차트 (Nivo) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/Charts%20(Nivo).md |
 현재 URL 가져오기 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Components%20%26%20Functions/Get%20URL.md |
 현재 URL 복사(lib) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/react-copy-to-clipboard.md |
+i18next | https://github.com/kevinkim910408/Vite-i18next-Translate |
 OS에서 언어체크 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Check%20OS%20Language.md |
 Progress Bar | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Components%20%26%20Functions/ProgressBar.md |
 Private Route | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Private%20Routes.md |
