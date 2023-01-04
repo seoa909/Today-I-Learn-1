@@ -1,28 +1,38 @@
 # Reactjs
 Content | Link |
---- | --- | 
+--- | ------------------------------------- | 
 경로+Ts(Craco) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/Craco.md | 
 반응형(lib) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/useMediaQuery.md | 
 스타일컴포넌트(type) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Styled-Components%20Type.md |
+중첩라우팅 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Nested%20Routing.md |
 차트 (Nivo) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/Charts%20(Nivo).md |
+프라이빗라우팅 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Private%20Routes.md |
 현재 URL 가져오기 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Components%20%26%20Functions/Get%20URL.md |
 현재 URL 복사(lib) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/react-copy-to-clipboard.md |
 i18next | https://github.com/kevinkim910408/Vite-i18next-Translate |
 OS에서 언어체크 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Check%20OS%20Language.md |
 Progress Bar | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Components%20%26%20Functions/ProgressBar.md |
-Private Route | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Private%20Routes.md |
 universal-cookie | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/universal-cookie.md |
+
+폴더 | Link |
+--- | ------------------------------------- | 
 React + Vite 폴더 | https://github.com/kevinkim910408/Today-I-Learn/tree/main/React.js/Vite |
 React Query 폴더 | https://github.com/kevinkim910408/Today-I-Learn/tree/main/React.js/React%20Query |
-여기서부턴 | React + Firebase |
+
+파이어베이스 | Link |
+--- | --- | 
 Set up | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serverless/Firebase/Setup.md |
 URL to Storage(blob) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serverless/Firebase/URL%20to%20Storage.md |
 addDoc | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serverless/Firebase/addDoc.md |
 getDoc | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serverless/Firebase/getDoc.md |
-여기서부턴 | 정규식 |
+
+정규식 | Link |
+--- | --- | 
 문자열에서 대문자 만나면 공백넣기 (정규식) | https://url.kr/ydhmwf  | 
 숫자열에 콤마 집어넣기 (정규식) | https://url.kr/2mjk9v  | 
-여기서부턴 | API |
+
+API | Link |
+--- | --- | 
 Tableau | https://github.com/kevinkim910408/Today-I-Learn/tree/main/React.js/API/Tableau  | 
 
 
