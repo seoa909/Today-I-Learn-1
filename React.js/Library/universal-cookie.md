@@ -28,7 +28,7 @@ cookie.set("Authorization", data.data.token, {
 
 - 삭제
 
-```cookie.remove("Authorization)```
+``` cookie.remove("Authorization", { path: "/" });```
 
 - 불러오기
 ```cookie.get("Authorization")```
