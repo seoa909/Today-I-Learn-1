@@ -10,6 +10,7 @@ Content | Link |
 현재 URL 가져오기 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Components%20%26%20Functions/Get%20URL.md |
 현재 URL 복사(lib) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/react-copy-to-clipboard.md |
 html특수문자 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/html%20%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90.md |
+Back Button | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Components%20&%20Functions/Back%20Button.md |
 i18next | https://github.com/kevinkim910408/Vite-i18next-Translate |
 OS에서 언어체크 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Check%20OS%20Language.md |
 Pagination | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Components%20%26%20Functions/Pagination.md |
