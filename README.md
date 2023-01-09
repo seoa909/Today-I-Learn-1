@@ -96,6 +96,7 @@ Content | Link |
 --- | --- | 
 [React] "JSX element implicitly has type 'any' | https://github.com/kevinkim910408/Today-I-Learn/issues/8 |  
 [React] autocomplete attributes | https://github.com/kevinkim910408/Today-I-Learn/issues/15 |  
+[React] Cannot find module ... or its corresponding type declarations.  | https://github.com/kevinkim910408/Today-I-Learn/issues/17 |  
 [TypeScript] Cannot find 'node_modules/typescript/lib/lib.d.ts' in tsconfig file | https://stackoverflow.com/questions/74760673/cannot-find-node-modules-typescript-lib-lib-d-ts-in-tsconfig-file |
 Typescript cannot find name window or document | https://github.com/kevinkim910408/Today-I-Learn/issues/11 |
 
