@@ -1,20 +1,18 @@
 # TIL
 > Today I Learned
 
-A collection of concrete writeups of small things I learn daily while working
-and researching. My goal is to work in public. I was inspired to start this
-repository after reading Simon Wilson's [hacker new post][1], and he was
-apparently inspired by Josh Branchaud's [TIL collection][2].
+TIL
 
 
 _59 TILs and counting..._
 
 ---
 
-### 2 most recent TILs
+### 3 most recent TILs
 
 - [절망 그리고 절망](Daily/Day 19.md) - Tue Jan 10 17:34:18 2023 -0500
 - [살아남기](Daily/Day 18.md) - Tue Jan 10 10:09:03 2023 -0500
+- [2022년의 마지막 출근일](Daily/Day 13.md) - Fri Dec 30 17:18:16 2022 -0500
 
 ### Categories
 
