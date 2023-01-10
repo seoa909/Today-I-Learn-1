@@ -1,128 +1,110 @@
-# Reactjs
-Content | Link |
---- | ------------------------------------- | 
-경로+Ts(Craco) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/Craco.md | 
-반응형(lib) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/useMediaQuery.md | 
-스타일컴포넌트(type) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Styled-Components%20Type.md |
-중첩라우팅 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Nested%20Routing.md |
-차트 (Nivo) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/Charts%20(Nivo).md |
-프라이빗라우팅 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Private%20Routes.md |
-현재 URL 가져오기 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Components%20%26%20Functions/Get%20URL.md |
-현재 URL 복사(lib) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/react-copy-to-clipboard.md |
-html특수문자 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/html%20%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90.md |
-Back Button | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Components%20&%20Functions/Back%20Button.md |
-i18next | https://github.com/kevinkim910408/Vite-i18next-Translate |
-OS에서 언어체크 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Check%20OS%20Language.md |
-Pagination | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Components%20%26%20Functions/Pagination.md |
-Progress Bar | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Components%20%26%20Functions/ProgressBar.md |
-universal-cookie | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Library/universal-cookie.md |
+# TIL
+> Today I Learned
 
-폴더 | Link |
---- | ------------------------------------- | 
-React + Vite 폴더 | https://github.com/kevinkim910408/Today-I-Learn/tree/main/React.js/Vite |
-React Query 폴더 | https://github.com/kevinkim910408/Today-I-Learn/tree/main/React.js/React%20Query |
-Hook 폴더 | https://github.com/kevinkim910408/Today-I-Learn/tree/main/React.js/Hook |
-
-파이어베이스 | Link |
---- | --- | 
-Set up | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serverless/Firebase/Setup.md |
-URL to Storage(blob) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serverless/Firebase/URL%20to%20Storage.md |
-addDoc | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serverless/Firebase/addDoc.md |
-getDoc | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Serverless/Firebase/getDoc.md |
-
-정규식 | Link |
---- | --- | 
-문자열에서 대문자 만나면 공백넣기 (정규식) | https://url.kr/ydhmwf  | 
-숫자열에 콤마 집어넣기 (정규식) | https://url.kr/2mjk9v  | 
-
-API | Link |
---- | --- | 
-Tableau | https://github.com/kevinkim910408/Today-I-Learn/tree/main/React.js/API/Tableau  | 
+A collection of concrete writeups of small things I learn daily while working
+and researching. My goal is to work in public. I was inspired to start this
+repository after reading Simon Wilson's [hacker new post][1], and he was
+apparently inspired by Josh Branchaud's [TIL collection][2].
 
 
-# Redux
-Content | Link |
---- | --- | 
-Vanila + Thunk | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Redux/Redux-thunk.md |
-Toolkit Store(ts) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Redux/Toolkit%20Store%20TypeScript.md |
-Toolkit CR example(ts) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/React.js/Redux/Toolkit%20CR.md |
+_59 TILs and counting..._
 
-# Nodejs
-Content | Link |
---- | --- | 
-cors | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Node.js/cors.md |
-jwt | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Node.js/jsonwebtoken.md |
-res.locals | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Node.js/res.locals.md |
-Node + MongoDB Start | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/01_Node%2BMongo |
-Node + TypeScript Start | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/03_%20Node%20%2B%20TypeScript |
-Node(TS) + MySQL Start | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/04_%20Node%20(TS)%20+%20MySQL |
-Node(TS) + Mongo + JWT | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/05_%20Node%20(TS)%20%2B%20Mongo%20%2B%20JWT%20%3D%20Auth |
+---
 
-# MERN
-Content | Link |
---- | --- | 
-MERN CRUD (회원) | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/02_MERN%20CRUD |
-MERN(TS) Email Verification | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Node.js/06_%20MERN(TS)%20Email%20Verification |
+### 2 most recent TILs
 
-# React Native
-Content | Link |
---- | --- | 
-Folder | https://github.com/kevinkim910408/Today-I-Learn/tree/main/ReactNative |
+- [절망 그리고 절망](Daily/Day 19.md) - Tue Jan 10 17:34:18 2023 -0500
+- [살아남기](Daily/Day 18.md) - Tue Jan 10 10:09:03 2023 -0500
 
-# Vercel
-Content | Link |
---- | --- | 
-Folder | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Vercel |
+### Categories
 
-# Computer Science
-Content | Link |
---- | --- | 
-브라우저 렌더링과정 | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/Browser%20Rendering%20Pipeline.md |
-Big-O | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/BIG-O-NOTATION.md |
-HTTP VS HTTPS | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/HTTP%20VS%20HTTPS.md |
-MonoRepo(vite+nodejs) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/MonoRepo(Vite%2BNode(js).md |
-MonoRepo(vite+nodets) | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/MonoRepo(Vite%2BNode(ts).md |
-OAuth | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/OAuth.md |
-Pip upgrade | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/pip%20Upgrade.md |
-Kill Port | https://github.com/kevinkim910408/Today-I-Learn/blob/main/Computer%20Sience/Kill%20Current%20Port.md |
+- [Computer Sience](#Computer Sience)
+- [Daily](#Daily)
+- [Git](#Git)
+- [JS](#JS)
+- [Node.js](#Node.js)
+- [React.js](#React.js)
+- [ReactNative](#ReactNative)
+- [Shopify](#Shopify)
+- [Vercel](#Vercel)
 
-# Shopify
-Content | Link |
---- | --- | 
-Folder | https://github.com/kevinkim910408/Today-I-Learn/tree/main/Shopify |
+### [Computer Sience](#Computer Sience)
+- [BIG O NOTATION](Computer Sience/BIG-O-NOTATION.md)
+- [Browser Rendering Pipeline](Computer Sience/Browser Rendering Pipeline.md)
+- [Clean Code & Refectoring](Computer Sience/Clean Code & Refactoring.md)
+- [HTTP VS HTTPS](Computer Sience/HTTP VS HTTPS.md)
+- [윈도우](Computer Sience/Kill Current Port.md)
+- [MonoRepo](Computer Sience/MonoRepo(Vite+Node(js).md)
+- [```js](Computer Sience/MonoRepo(Vite+Node(ts).md)
+- [OAuth (Open Authorization)](Computer Sience/OAuth.md)
+- [코드 뒤에 ; 세미콜론 꼭 추가하기.](Computer Sience/html 특수문자.md)
+- [```python -m pip install --upgrade pip ```](Computer Sience/pip Upgrade.md)
 
-# Issues - React
-Content | Link |
---- | --- | 
-[React] "JSX element implicitly has type 'any' | https://github.com/kevinkim910408/Today-I-Learn/issues/8 |  
-[React] autocomplete attributes | https://github.com/kevinkim910408/Today-I-Learn/issues/15 |  
-[React] Cannot find module ... or its corresponding type declarations.  | https://github.com/kevinkim910408/Today-I-Learn/issues/17 |  
-[TypeScript] Cannot find 'node_modules/typescript/lib/lib.d.ts' in tsconfig file | https://stackoverflow.com/questions/74760673/cannot-find-node-modules-typescript-lib-lib-d-ts-in-tsconfig-file |
-Typescript cannot find name window or document | https://github.com/kevinkim910408/Today-I-Learn/issues/11 |
+### [Daily](#Daily)
+- [Valor Distributions에 입사. (2022-12-12)](Daily/Day 01.md)
+- [출근..](Daily/Day 02.md)
+- [오늘도 혼자.](Daily/Day 03.md)
+- [여유가 생기기 시작한 4일차 뉴비](Daily/Day 04.md)
+- [TGIF](Daily/Day 05.md)
+- [월요일, 나의 레포는 private으로 가버리다](Daily/Day 06.md)
+- [7일차, 아직 수습기간은 83일남음..](Daily/Day 07.md)
+- [몸살.. 그리고 출근..](Daily/Day 08.md)
+- [여전히 환자.. 하지만 출근..](Daily/Day 09.md)
+- [연휴 바로 전 금요일. 출근 이제 10일차](Daily/Day 10.md)
+- [4일의 연휴가 끝나고 수요일.](Daily/Day 11.md)
+- [12일차.. 휴일 2틀전..](Daily/Day 12.md)
+- [2022년의 마지막 출근일](Daily/Day 13.md)
+- [연휴 후 출근 = Side effect는 컸다.. 2023년 첫출근은 1월3일](Daily/Day 14 - 2023년 시작.md)
+- [평범한 수요일, 담당자 안옴 = 할일 없음.](Daily/Day 15.md)
+- [목요일, 그리고 오늘 컨디션은 4.5/5](Daily/Day 16.md)
+- [금요일 TGIF](Daily/Day 17.md)
+- [살아남기](Daily/Day 18.md)
+- [절망 그리고 절망](Daily/Day 19.md)
 
-# Issues - Redux
-Content | Link |
---- | --- | 
-useSelector Type | https://github.com/kevinkim910408/Today-I-Learn/issues/1 |
+### [Git](#Git)
+- [```](Git/Change Email and Username.md)
+- [삭제한 리포 보는곳](Git/Deleted_Repositories.md)
 
-# Issues - Vite
-Content | Link |
---- | --- | 
-babel/plugin-proposal-decorators | https://github.com/kevinkim910408/Today-I-Learn/issues/2 |
+### [JS](#JS)
+- [Regular Expression](JS/Regular Expression.md)
 
-# Issues - MongoDB
-Content | Link |
---- | --- | 
-11000 Error | DB에 중복된게 있다는 에러 |
-the strictQuery option will be switched back.... | https://github.com/kevinkim910408/Today-I-Learn/issues/7 |
-MongoParseError: options poolsize.... | https://github.com/kevinkim910408/Today-I-Learn/issues/9 |
-MongoDB에 데이터 한개이상 안들어갈때 | https://github.com/kevinkim910408/Today-I-Learn/issues/10 |
+### [Node.js](#Node.js)
+- [cors 잡는법은 간단하다.](Node.js/cors.md)
+- [jwt를 만들기](Node.js/jsonwebtoken.md)
+- [# res.locals](Node.js/res.locals.md)
+- [폴더에 관한 고찰](Node.js/폴더에 관한 고찰.md)
 
-# Issues - Flutter
-Content | Link |
---- | --- | 
-adb: failed to install | https://dalgonakit.tistory.com/201 |
-Error: Not found: 'dart:ui' | restart |
-Gradle task assembleDebug failed | https://github.com/kevinkim910408/Today-I-Learn/issues/12 |
+### [React.js](#React.js)
+- [현재 내가 web에서 어떤 언어를 쓰고있나.](React.js/Check OS Language.md)
+- [토큰을 어디에 저장할까 하다가, 쿠키나 로컬에 저장을 했을경우,](React.js/Modify Token without Permission.md)
+- [중첩라우팅](React.js/Nested Routing.md)
+- [Private Routes](React.js/Private Routes.md)
+- [스타일 컴포넌트 타입 적용](React.js/Styled-Components Type.md)
+- [타입 정리](React.js/Type.md)
 
+### [ReactNative](#ReactNative)
+- [- Sign Up and Sign In](ReactNative/00_Expo Setup & Command.md)
+- [](ReactNative/01_Elements.md)
+- [Install](ReactNative/BaseURL.md)
+- [Using Switch ~ Case](ReactNative/Dynamic Image Route.md)
+- [1. this is taking much longer than ...](ReactNative/Errors.md)
+- [```js](ReactNative/Fixed Position.md)
+- [Usage](ReactNative/Height 100vh.md)
+- [Install](ReactNative/Image Upload.md)
+- [Usage](ReactNative/Relative Path Image.md)
+- [LogBox](ReactNative/Remove Warning.md)
+- [](ReactNative/StackNavigation.md)
+- [Preview](ReactNative/StackNavigation_Practice.md)
+- [TouchableWithoutFeedback](ReactNative/TouchableWithoutFeedback vs TouchableHighlight.md)
+- [Plugin](ReactNative/env.md)
+
+### [Shopify](#Shopify)
+- [shopify + nodejs prac (shopify version: 3.x)](Shopify/Start with Vanilla Nodejs .md)
+- [https://medium.com/uconnec/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%ED%95%9C%EB%B2%88-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%BC%EA%B9%8C-1-feat-shopify-260dee40a230](Shopify/article.md)
+
+### [Vercel](#Vercel)
+- [상황](Vercel/Vite 404 Error.md)
+
+[1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
+[2]: https://github.com/jbranchaud/til
 
