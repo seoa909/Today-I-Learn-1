@@ -101,7 +101,7 @@ _59 TILs and counting..._
 - [https://medium.com/uconnec/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%ED%95%9C%EB%B2%88-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%BC%EA%B9%8C-1-feat-shopify-260dee40a230](Shopify/article.md)
 
 ### [Vercel](#Vercel)
-- [상황](Vercel/Vite 404 Error.md)
+- [Vite 404 Error](Vercel/Vite 404 Error.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
