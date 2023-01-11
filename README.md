@@ -4,15 +4,15 @@
 TIL
 
 
-_51 TILs and counting..._
+_95 TILs and counting..._
 
 ---
 
 ### 3 most recent TILs
 
-- [Event Bubbling, Capturing](Javascript-Core-JS/07_Event-Bubbling-Capturing.md) - Tue Jan 10 20:51:39 2023 -0500
-- [Browser Rendering Pipeline](Computer-Sience/Browser-Rendering-Pipeline.md) - Tue Jan 10 20:51:39 2023 -0500
-- [Clean Code & Refectoring](Computer-Sience/Clean-Code-and-Refactoring.md) - Tue Jan 10 20:51:39 2023 -0500
+- [뒤로가기 버튼](React-Components-&-Functions/Back-Button.md) - Tue Jan 10 21:07:03 2023 -0500
+- [InitialState Type](React-Redux/InitialState-Type.md) - Tue Jan 10 21:07:03 2023 -0500
+- [useQuery](React-React-Query/useQuery.md) - Tue Jan 10 21:07:03 2023 -0500
 
 ### Categories
 
@@ -22,6 +22,17 @@ _51 TILs and counting..._
 - [Javascript](#Javascript)
 - [Javascript-Core-JS](#Javascript-Core-JS)
 - [Javascript-Design-Pattern](#Javascript-Design-Pattern)
+- [Python-Library](#Python-Library)
+- [React](#React)
+- [React-API](#React-API)
+- [React-Components-&-Functions](#React-Components-&-Functions)
+- [React-Firebase](#React-Firebase)
+- [React-Hook](#React-Hook)
+- [React-Library](#React-Library)
+- [React-React-Query](#React-React-Query)
+- [React-Redux](#React-Redux)
+- [React-TDD](#React-TDD)
+- [React-Vite](#React-Vite)
 - [ReactNative](#ReactNative)
 - [ReactNative-Hooks](#ReactNative-Hooks)
 - [Shopify](#Shopify)
@@ -33,12 +44,11 @@ _51 TILs and counting..._
 - [Clean Code & Refectoring](Computer-Sience/Clean-Code-and-Refactoring.md)
 - [HTTP VS HTTPS](Computer-Sience/HTTP-VS-HTTPS.md)
 - [현재 포트 죽이기](Computer-Sience/Kill-Current-Port.md)
-- [MonoRepo(Vite+Node(js)](Computer-Sience/MonoRepo(Vite+Node(js).md)
-- [MonoRepo(Vite+Node(ts)](Computer-Sience/MonoRepo(Vite+Node(ts).md)
+- [MonoRepo(Vite+Node(js)](Computer-Sience/MonoRepo-Vite-Node-js.md)
+- [MonoRepo(Vite+Node(ts)](Computer-Sience/MonoRepo-Vite-Node-ts.md)
 - [OAuth (Open Authorization)](Computer-Sience/OAuth.md)
 - [html 특수문자](Computer-Sience/html-특수문자.md)
-- [pip-Upgrade](Computer-Sience/pip Upgrade.md)
-- [```python -m pip install --upgrade pip ```](Computer-Sience/pip-Upgrade.md)
+- [pip-Upgrade](Computer-Sience/pip-Upgrade.md)
 
 ### [Git](#Git)
 - [Change_Email_and_Username](Git/Change_Email_and_Username.md)
@@ -71,6 +81,73 @@ _51 TILs and counting..._
 - [Abstract Factory](Javascript-Design-Pattern/02_Abstract-Factory.md)
 - [Atomic Design Pattern](Javascript-Design-Pattern/03_Atomic-Design-Pattern.md)
 - [Factory Method](Javascript-Design-Pattern/03_Factory-Method.md)
+
+### [Python-Library](#Python-Library)
+- [Pydrive(File-Fetching)](Python-Library/Pydrive.md)
+
+### [React](#React)
+- [현재 OS 체크하기](React/Check-OS-Language.md)
+- [토큰 처리](React/Modify-Token-without-Permission.md)
+- [중첩라우팅](React/Nested-Routing.md)
+- [Private Routes](React/Private-Routes.md)
+- [스타일 컴포넌트 타입 적용](React/Styled-Components-Type.md)
+- [타입 정리](React/Types.md)
+
+### [React-API](#React-API)
+- [태블로 에러코드](React-API/Tableau-Error-code.md)
+- [태블로 JWT](React-API/Tableau-JWT-with-API-V3.md)
+- [태블로 시작하기](React-API/Tableau-Start.md)
+- [태블로 Option property](React-API/Tableau-VizCreateOptions.md)
+- [태블로 란?](React-API/Tableau.md)
+
+### [React-Components-&-Functions](#React-Components-&-Functions)
+- [숫자 천의자리 마다 , 집어넣기](React-Components-&-Functions/Add-Comma-into-Numbers.md)
+- [문자열을 띄어쓰기로 자르고, 자른거 제일앞에 대문자(영어)](React-Components-&-Functions/Add-Space-when-Uppercase.md)
+- [뒤로가기 버튼](React-Components-&-Functions/Back-Button.md)
+- [현재 url 가져오기](React-Components-&-Functions/Get-URL.md)
+- [페이지네이션 (버튼4개)](React-Components-&-Functions/Pagination.md)
+- [비밀번호 보이기 감추기](React-Components-&-Functions/PasswordToggle.md)
+- [ProgressBar](React-Components-&-Functions/ProgressBar.md)
+
+### [React-Firebase](#React-Firebase)
+- [초기세팅](React-Firebase/Setup.md)
+- [URL, 폴더이름, 파일이름을 input으로 받아서 Storage에 저장](React-Firebase/URL-to-Storage.md)
+- [addDoc](React-Firebase/addDoc.md)
+- [getDoc](React-Firebase/getDoc.md)
+
+### [React-Hook](#React-Hook)
+- [useDetectClose.ts](React-Hook/useDetectClose.md)
+- [윈도우 가로사이즈 재기](React-Hook/useWindowWide.md)
+
+### [React-Library](#React-Library)
+- [리액트 차트 - Nivo](React-Library/Charts-(Nivo).md)
+- [Craco](React-Library/Craco.md)
+- [i18next 다국어 지원 라이브러리 기초](React-Library/i18next-01-Basic.md)
+- [i18next 다국어 지원 라이브러리 OS별로](React-Library/i18next-02-OS.md)
+- [i18next 다국어 지원 라이브러리 버튼이용](React-Library/i18next-03-Button.md)
+- [현재 url 공유하기](React-Library/react-copy-to-clipboard.md)
+- [리액트 에러바운더리](React-Library/react-error-boundary.md)
+- [universal-cookie](React-Library/universal-cookie.md)
+- [useMediaQuery](React-Library/useMediaQuery.md)
+
+### [React-React-Query](#React-React-Query)
+- [useMutation](React-React-Query/useMutation.md)
+- [useQuery](React-React-Query/useQuery.md)
+
+### [React-Redux](#React-Redux)
+- [InitialState Type](React-Redux/InitialState-Type.md)
+- [툴킷 리듀서 예제](React-Redux/Redux-Toolkit-CR.md)
+- [툴킷 Store 타입](React-Redux/Redux-Toolkit-Store-Type.md)
+- [Redux-thunk](React-Redux/Redux-thunk.md)
+
+### [React-TDD](#React-TDD)
+- [테스트?](React-TDD/01_What-is-Test.md)
+
+### [React-Vite](#React-Vite)
+- [경로](React-Vite/Alias.md)
+- [Start](React-Vite/Start.md)
+- [html에서 환경변수 끌어쓰기](React-Vite/env-in-html-file.md)
+- [환경변수 사용](React-Vite/env.md)
 
 ### [ReactNative](#ReactNative)
 - [Expo Setup and Command](ReactNative/00_Expo-Setup-&-Command.md)
