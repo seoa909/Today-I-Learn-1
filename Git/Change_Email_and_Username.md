@@ -1,4 +1,4 @@
-# Change Email and Username
+# Change_Email_and_Username
 
 ```js
 git config --global user.email 이메일
