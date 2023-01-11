@@ -4,15 +4,15 @@
 TIL
 
 
-_95 TILs and counting..._
+_137 TILs and counting..._
 
 ---
 
 ### 3 most recent TILs
 
-- [뒤로가기 버튼](React-Components-&-Functions/Back-Button.md) - Tue Jan 10 21:07:03 2023 -0500
-- [InitialState Type](React-Redux/InitialState-Type.md) - Tue Jan 10 21:07:03 2023 -0500
-- [useQuery](React-React-Query/useQuery.md) - Tue Jan 10 21:07:03 2023 -0500
+- [모델 생성](MERN-Email-Verification/02-Server-Model.md) - Tue Jan 10 21:16:54 2023 -0500
+- [mySQL 연결](Node-ts-MySQL/Start.md) - Tue Jan 10 21:16:54 2023 -0500
+- [MySQL 명령어](Node-ts-MySQL/Command.md) - Tue Jan 10 21:16:54 2023 -0500
 
 ### Categories
 
@@ -22,6 +22,13 @@ _95 TILs and counting..._
 - [Javascript](#Javascript)
 - [Javascript-Core-JS](#Javascript-Core-JS)
 - [Javascript-Design-Pattern](#Javascript-Design-Pattern)
+- [MERN-CRUD](#MERN-CRUD)
+- [MERN-Email-Verification](#MERN-Email-Verification)
+- [Node](#Node)
+- [Node-Mongo](#Node-Mongo)
+- [Node-TypeScript](#Node-TypeScript)
+- [Node-ts-Mongo-JWT-Auth](#Node-ts-Mongo-JWT-Auth)
+- [Node-ts-MySQL](#Node-ts-MySQL)
 - [Python-Library](#Python-Library)
 - [React](#React)
 - [React-API](#React-API)
@@ -81,6 +88,61 @@ _95 TILs and counting..._
 - [Abstract Factory](Javascript-Design-Pattern/02_Abstract-Factory.md)
 - [Atomic Design Pattern](Javascript-Design-Pattern/03_Atomic-Design-Pattern.md)
 - [Factory Method](Javascript-Design-Pattern/03_Factory-Method.md)
+
+### [MERN-CRUD](#MERN-CRUD)
+- [Init](MERN-CRUD/01_init.md)
+- [모노레포](MERN-CRUD/02_Monorepo.md)
+- [Create](MERN-CRUD/03_Create.md)
+- [Get](MERN-CRUD/04_Get.md)
+- [현재까지 나온 화면](MERN-CRUD/05_ So Far.md)
+- [Delete](MERN-CRUD/06_Delete.md)
+- [Updage](MERN-CRUD/07_Update.md)
+
+### [MERN-Email-Verification](#MERN-Email-Verification)
+- [시작](MERN-Email-Verification/00-Start.md)
+- [db 연결](MERN-Email-Verification/01-Server-DB-Connect.md)
+- [모델 생성](MERN-Email-Verification/02-Server-Model.md)
+- [컨트롤러 제작](MERN-Email-Verification/03-Server-Controller.md)
+- [이메일 함수](MERN-Email-Verification/04-Server-Send-Email-Util.md)
+- [포스트맨 테스트](MERN-Email-Verification/05-Server-Test.md)
+- [클라이언트 시작](MERN-Email-Verification/06-Client-Start-api-type.md)
+- [리액트 쿼리](MERN-Email-Verification/07-Client-hooks.md)
+- [Views](MERN-Email-Verification/08-Client-Pages.md)
+
+### [Node](#Node)
+- [CORS](Node/cors.md)
+- [JWT](Node/jsonwebtoken.md)
+- [res.locals](Node/res.locals.md)
+- [폴더구조](Node/폴더구조.md)
+
+### [Node-Mongo](#Node-Mongo)
+- [Node.js Starts](Node-Mongo/00_Nodejs-Starts.md)
+- [몽고DB 설치](Node-Mongo/01_Install-MongoDB.md)
+- [Nodejs 와 MongoDB 연결하기](Node-Mongo/03_Node-&-Mongo.md)
+- [회원가입을 위한 스키마 작성](Node-Mongo/04_Schema.md)
+- [# 회원가입 api 작성](Node-Mongo/05_User-Register-API.md)
+- [Nodemon 설치](Node-Mongo/06_ Nodemon.md)
+- [환경변수](Node-Mongo/07_Environment-Variables.md)
+- [비밀번호 암호화.](Node-Mongo/08_ BCRYPT.md)
+- [Mongoose`strictQuery` 에러](Node-Mongo/09_strictQuery.md)
+- [유저 정보 가져오기.](Node-Mongo/10_Get-User's-Data.md)
+
+### [Node-TypeScript](#Node-TypeScript)
+- [.gitignore.](Node-TypeScript/GitIgnore.md)
+- [Node + Typescript start](Node-TypeScript/Start.md)
+
+### [Node-ts-Mongo-JWT-Auth](#Node-ts-Mongo-JWT-Auth)
+- [시작](Node-ts-Mongo-JWT-Auth/01_Start.md)
+- [User Controller, routes 그리고 interfaces 만들기](Node-ts-Mongo-JWT-Auth/02_ User.md)
+- [미들웨어](Node-ts-Mongo-JWT-Auth/03_JWT-Middleware.md)
+- [비밀번호 암호화 및 토큰생성](Node-ts-Mongo-JWT-Auth/04_ SignJWT.md)
+- [몽고DB 연결](Node-ts-Mongo-JWT-Auth/05_ Connect-MongoDB.md)
+- [모델](Node-ts-Mongo-JWT-Auth/06_ User-Model.md)
+- [컨트롤러](Node-ts-Mongo-JWT-Auth/07_ User-Controller.md)
+
+### [Node-ts-MySQL](#Node-ts-MySQL)
+- [MySQL 명령어](Node-ts-MySQL/Command.md)
+- [mySQL 연결](Node-ts-MySQL/Start.md)
 
 ### [Python-Library](#Python-Library)
 - [Pydrive(File-Fetching)](Python-Library/Pydrive.md)
