@@ -1,4 +1,4 @@
-# 02. yml explanation
+# 03_yml_explanation
 
 ### 야믈파일에 대한 설명
 
