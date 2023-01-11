@@ -1,6 +1,7 @@
 # TIL
 > Today I Learned
 
+개발일지와 이런저런 공부한걸 적습니다.
 TIL
 
 
