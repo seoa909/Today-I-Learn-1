@@ -4,20 +4,19 @@
 TIL
 
 
-_59 TILs and counting..._
+_40 TILs and counting..._
 
 ---
 
 ### 3 most recent TILs
 
-- [절망 그리고 절망](Daily/Day 19.md) - Tue Jan 10 17:34:18 2023 -0500
-- [살아남기](Daily/Day 18.md) - Tue Jan 10 10:09:03 2023 -0500
-- [2022년의 마지막 출근일](Daily/Day 13.md) - Fri Dec 30 17:18:16 2022 -0500
+- [현재 내가 web에서 어떤 언어를 쓰고있나.](React.js/Check OS Language.md) - Fri Dec 30 15:48:52 2022 -0500
+- [토큰을 어디에 저장할까 하다가, 쿠키나 로컬에 저장을 했을경우,](React.js/Modify Token without Permission.md) - Fri Dec 30 12:19:28 2022 -0500
+- [Private Routes](React.js/Private Routes.md) - Thu Dec 29 16:29:50 2022 -0500
 
 ### Categories
 
 - [Computer Sience](#Computer Sience)
-- [Daily](#Daily)
 - [Git](#Git)
 - [JS](#JS)
 - [Node.js](#Node.js)
@@ -27,7 +26,7 @@ _59 TILs and counting..._
 - [Vercel](#Vercel)
 
 ### [Computer Sience](#Computer Sience)
-- [BIG O NOTATION](Computer Sience/BIG-O-NOTATION.md)
+- [빅오 표기법](Computer Sience/BIG-O-NOTATION.md)
 - [Browser Rendering Pipeline](Computer Sience/Browser Rendering Pipeline.md)
 - [Clean Code & Refectoring](Computer Sience/Clean Code & Refactoring.md)
 - [HTTP VS HTTPS](Computer Sience/HTTP VS HTTPS.md)
@@ -37,27 +36,6 @@ _59 TILs and counting..._
 - [OAuth (Open Authorization)](Computer Sience/OAuth.md)
 - [코드 뒤에 ; 세미콜론 꼭 추가하기.](Computer Sience/html 특수문자.md)
 - [```python -m pip install --upgrade pip ```](Computer Sience/pip Upgrade.md)
-
-### [Daily](#Daily)
-- [Valor Distributions에 입사. (2022-12-12)](Daily/Day 01.md)
-- [출근..](Daily/Day 02.md)
-- [오늘도 혼자.](Daily/Day 03.md)
-- [여유가 생기기 시작한 4일차 뉴비](Daily/Day 04.md)
-- [TGIF](Daily/Day 05.md)
-- [월요일, 나의 레포는 private으로 가버리다](Daily/Day 06.md)
-- [7일차, 아직 수습기간은 83일남음..](Daily/Day 07.md)
-- [몸살.. 그리고 출근..](Daily/Day 08.md)
-- [여전히 환자.. 하지만 출근..](Daily/Day 09.md)
-- [연휴 바로 전 금요일. 출근 이제 10일차](Daily/Day 10.md)
-- [4일의 연휴가 끝나고 수요일.](Daily/Day 11.md)
-- [12일차.. 휴일 2틀전..](Daily/Day 12.md)
-- [2022년의 마지막 출근일](Daily/Day 13.md)
-- [연휴 후 출근 = Side effect는 컸다.. 2023년 첫출근은 1월3일](Daily/Day 14 - 2023년 시작.md)
-- [평범한 수요일, 담당자 안옴 = 할일 없음.](Daily/Day 15.md)
-- [목요일, 그리고 오늘 컨디션은 4.5/5](Daily/Day 16.md)
-- [금요일 TGIF](Daily/Day 17.md)
-- [살아남기](Daily/Day 18.md)
-- [절망 그리고 절망](Daily/Day 19.md)
 
 ### [Git](#Git)
 - [```](Git/Change Email and Username.md)
