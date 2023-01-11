@@ -26,7 +26,7 @@ _40 TILs and counting..._
 - [Vercel](#Vercel)
 
 ### [Computer Sience](#Computer Sience)
-- [빅오 표기법](Computer Sience/BIG-O-NOTATION.md)
+- [](Computer Sience/BIG-O-NOTATION.md)
 - [Browser Rendering Pipeline](Computer Sience/Browser Rendering Pipeline.md)
 - [Clean Code & Refectoring](Computer Sience/Clean Code & Refactoring.md)
 - [HTTP VS HTTPS](Computer Sience/HTTP VS HTTPS.md)
