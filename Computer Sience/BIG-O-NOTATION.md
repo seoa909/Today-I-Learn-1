@@ -1,9 +1,3 @@
-# BIG O NOTATION
-
-- Big O notation is one of the most fundamental tools for computer scientists to analyze the cost of an algorithm. 
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 # 빅오 표기법
 
 - O(1) – 상수 시간 : 입력값 n 이 주어졌을 때, 알고리즘이 문제를 해결하는데 오직 한 단계만 거칩니다. 
