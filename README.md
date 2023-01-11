@@ -11,7 +11,7 @@ _138 TILs and counting..._
 
 ### 3 most recent TILs
 
-- [배포후 ubuntu에서 추가설치 명령어](Node/Ubuntu Install Command.md) - Wed Jan 11 14:51:43 2023 -0500
+- [배포후 ubuntu에서 추가설치 명령어](Node/Ubuntu-Install-Command.md) - Wed Jan 11 14:52:53 2023 -0500
 - [비밀번호 암호화.](Node-Mongo/08_BCRYPT.md) - Tue Jan 10 21:20:49 2023 -0500
 - [현재까지 나온 화면](MERN-CRUD/05_So-Far.md) - Tue Jan 10 21:20:49 2023 -0500
 
@@ -111,7 +111,7 @@ _138 TILs and counting..._
 - [Views](MERN-Email-Verification/08-Client-Pages.md)
 
 ### [Node](#Node)
-- [배포후 ubuntu에서 추가설치 명령어](Node/Ubuntu Install Command.md)
+- [배포후 ubuntu에서 추가설치 명령어](Node/Ubuntu-Install-Command.md)
 - [CORS](Node/cors.md)
 - [JWT](Node/jsonwebtoken.md)
 - [res.locals](Node/res.locals.md)
