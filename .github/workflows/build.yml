@@ -18,6 +18,7 @@ jobs:
       uses: cflynn07/github-action-til-autoformat-readme@1.1.0
       with:
         description: |
+          개발일지와 이런저런 공부한걸 적습니다.
           TIL
         footer: |
           [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
