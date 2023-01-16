@@ -5,18 +5,19 @@
 TIL
 
 
-_142 TILs and counting..._
+_143 TILs and counting..._
 
 ---
 
 ### 3 most recent TILs
 
+- [글자수 ... 처리](CSS/webkit-line-clamp.md) - Mon Jan 16 17:13:29 2023 -0500
 - [도커 에러 모음](Docker/03_Errors.md) - Fri Jan 13 22:03:55 2023 -0500
 - [도커 파일 구조](Docker/01_DockerFile.md) - Fri Jan 13 21:42:41 2023 -0500
-- [도커 명령어](Docker/02_Command.md) - Fri Jan 13 21:42:23 2023 -0500
 
 ### Categories
 
+- [CSS](#CSS)
 - [Computer-Sience](#Computer-Sience)
 - [Docker](#Docker)
 - [Git](#Git)
@@ -47,6 +48,9 @@ _142 TILs and counting..._
 - [ReactNative-Hooks](#ReactNative-Hooks)
 - [Shopify](#Shopify)
 - [Vercel](#Vercel)
+
+### [CSS](#CSS)
+- [글자수 ... 처리](CSS/webkit-line-clamp.md)
 
 ### [Computer-Sience](#Computer-Sience)
 - [BIG-O-NOTATION](Computer-Sience/BIG-O-NOTATION.md)
