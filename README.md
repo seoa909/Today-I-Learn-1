@@ -5,15 +5,15 @@
 TIL
 
 
-_146 TILs and counting..._
+_147 TILs and counting..._
 
 ---
 
 ### 3 most recent TILs
 
+- [Next 소개](Next/01_Introduce.md) - Tue Jan 17 13:02:08 2023 -0500
 - [백그라운드 데몬01 - Forever](Computer-Sience/forever.md) - Tue Jan 17 12:36:30 2023 -0500
 - [이펙티브 타입스크립트 01](TypeScript/Effective_TS01.md) - Tue Jan 17 11:52:40 2023 -0500
-- [넥스트 13](Next/Next13.md) - Mon Jan 16 23:22:12 2023 -0500
 
 ### Categories
 
@@ -128,6 +128,7 @@ _146 TILs and counting..._
 - [Views](MERN-Email-Verification/08-Client-Pages.md)
 
 ### [Next](#Next)
+- [Next 소개](Next/01_Introduce.md)
 - [넥스트 13](Next/Next13.md)
 
 ### [Node](#Node)
