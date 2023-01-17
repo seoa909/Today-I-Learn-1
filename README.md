@@ -5,15 +5,15 @@
 TIL
 
 
-_144 TILs and counting..._
+_145 TILs and counting..._
 
 ---
 
 ### 3 most recent TILs
 
+- [이펙티브 타입스크립트 01](TypeScript/Effective_TS01.md) - Tue Jan 17 11:52:40 2023 -0500
 - [넥스트 13](Next/Next13.md) - Mon Jan 16 23:22:12 2023 -0500
 - [글자수 ... 처리](CSS/webkit-line-clamp.md) - Mon Jan 16 17:13:29 2023 -0500
-- [도커 에러 모음](Docker/03_Errors.md) - Fri Jan 13 22:03:55 2023 -0500
 
 ### Categories
 
@@ -48,6 +48,7 @@ _144 TILs and counting..._
 - [ReactNative](#ReactNative)
 - [ReactNative-Hooks](#ReactNative-Hooks)
 - [Shopify](#Shopify)
+- [TypeScript](#TypeScript)
 - [Vercel](#Vercel)
 
 ### [CSS](#CSS)
@@ -253,6 +254,9 @@ _144 TILs and counting..._
 ### [Shopify](#Shopify)
 - [Shopify + Nodejs](Shopify/Start-with-Vanilla-Nodejs.md)
 - [Article for Learning](Shopify/article.md)
+
+### [TypeScript](#TypeScript)
+- [이펙티브 타입스크립트 01](TypeScript/Effective_TS01.md)
 
 ### [Vercel](#Vercel)
 - [Vite 404 Error](Vercel/Vite-404-Error.md)
