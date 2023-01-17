@@ -5,15 +5,15 @@
 TIL
 
 
-_145 TILs and counting..._
+_146 TILs and counting..._
 
 ---
 
 ### 3 most recent TILs
 
+- [백그라운드 데몬01 - Forever](Computer-Sience/forever.md) - Tue Jan 17 12:36:30 2023 -0500
 - [이펙티브 타입스크립트 01](TypeScript/Effective_TS01.md) - Tue Jan 17 11:52:40 2023 -0500
 - [넥스트 13](Next/Next13.md) - Mon Jan 16 23:22:12 2023 -0500
-- [글자수 ... 처리](CSS/webkit-line-clamp.md) - Mon Jan 16 17:13:29 2023 -0500
 
 ### Categories
 
@@ -63,6 +63,7 @@ _145 TILs and counting..._
 - [MonoRepo(Vite+Node(js)](Computer-Sience/MonoRepo-Vite-Node-js.md)
 - [MonoRepo(Vite+Node(ts)](Computer-Sience/MonoRepo-Vite-Node-ts.md)
 - [OAuth (Open Authorization)](Computer-Sience/OAuth.md)
+- [백그라운드 데몬01 - Forever](Computer-Sience/forever.md)
 - [html 특수문자](Computer-Sience/html-특수문자.md)
 - [pip-Upgrade](Computer-Sience/pip-Upgrade.md)
 
