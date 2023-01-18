@@ -5,15 +5,15 @@
 TIL
 
 
-_149 TILs and counting..._
+_150 TILs and counting..._
 
 ---
 
 ### 3 most recent TILs
 
+- [이펙티브 타입스크립트 02](TypeScript/Effective_TS02.md) - Wed Jan 18 12:58:08 2023 -0500
 - [Axios Get with Headers](React/Axios_with_header.md) - Wed Jan 18 12:56:22 2023 -0500
 - [설치](Next/02_Hello-world.md) - Tue Jan 17 17:25:43 2023 -0500
-- [Next 소개](Next/01_Introduce.md) - Tue Jan 17 13:02:08 2023 -0500
 
 ### Categories
 
@@ -261,6 +261,7 @@ _149 TILs and counting..._
 
 ### [TypeScript](#TypeScript)
 - [이펙티브 타입스크립트 01](TypeScript/Effective_TS01.md)
+- [이펙티브 타입스크립트 02](TypeScript/Effective_TS02.md)
 
 ### [Vercel](#Vercel)
 - [Vite 404 Error](Vercel/Vite-404-Error.md)
