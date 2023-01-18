@@ -5,15 +5,15 @@
 TIL
 
 
-_150 TILs and counting..._
+_151 TILs and counting..._
 
 ---
 
 ### 3 most recent TILs
 
+- [Admin_API](Shopify/Admin_API_Fetch.md) - Wed Jan 18 15:03:59 2023 -0500
 - [이펙티브 타입스크립트 02](TypeScript/Effective_TS02.md) - Wed Jan 18 12:58:08 2023 -0500
 - [Axios Get with Headers](React/Axios_with_header.md) - Wed Jan 18 12:56:22 2023 -0500
-- [설치](Next/02_Hello-world.md) - Tue Jan 17 17:25:43 2023 -0500
 
 ### Categories
 
@@ -256,6 +256,7 @@ _150 TILs and counting..._
 - [useWeather.tsx](ReactNative-Hooks/useWeather.md)
 
 ### [Shopify](#Shopify)
+- [Admin_API](Shopify/Admin_API_Fetch.md)
 - [Shopify + Nodejs](Shopify/Start-with-Vanilla-Nodejs.md)
 - [Article for Learning](Shopify/article.md)
 
