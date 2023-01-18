@@ -5,15 +5,15 @@
 TIL
 
 
-_148 TILs and counting..._
+_149 TILs and counting..._
 
 ---
 
 ### 3 most recent TILs
 
+- [Axios Get with Headers](React/Axios_with_header.md) - Wed Jan 18 12:56:22 2023 -0500
 - [설치](Next/02_Hello-world.md) - Tue Jan 17 17:25:43 2023 -0500
 - [Next 소개](Next/01_Introduce.md) - Tue Jan 17 13:02:08 2023 -0500
-- [백그라운드 데몬01 - Forever](Computer-Sience/forever.md) - Tue Jan 17 12:36:30 2023 -0500
 
 ### Categories
 
@@ -172,6 +172,7 @@ _148 TILs and counting..._
 - [Pydrive(File-Fetching)](Python-Library/Pydrive.md)
 
 ### [React](#React)
+- [Axios Get with Headers](React/Axios_with_header.md)
 - [현재 OS 체크하기](React/Check-OS-Language.md)
 - [토큰 처리](React/Modify-Token-without-Permission.md)
 - [중첩라우팅](React/Nested-Routing.md)
