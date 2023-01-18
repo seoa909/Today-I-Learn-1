@@ -2,8 +2,7 @@
 > Today I Learned
 
 개발일지와 이런저런 공부한걸 적습니다.
-궁금하신건 옆의 링크에서 적어주세요. https://github.com/kevinkim910408/Today-I-Learn/issues/new
-TIL
+궁금하신건 아래 링크에서 질문해주세요. https://github.com/kevinkim910408/Today-I-Learn/issues/new
 
 
 _151 TILs and counting..._
