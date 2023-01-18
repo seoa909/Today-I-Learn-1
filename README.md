@@ -2,6 +2,7 @@
 > Today I Learned
 
 개발일지와 이런저런 공부한걸 적습니다.
+궁금하신건 옆의 링크에서 적어주세요. https://github.com/kevinkim910408/Today-I-Learn/issues/new
 TIL
 
 
@@ -9,11 +10,13 @@ _151 TILs and counting..._
 
 ---
 
-### 3 most recent TILs
+### 5 most recent TILs
 
 - [Admin_API](Shopify/Admin_API_Fetch.md) - Wed Jan 18 15:03:59 2023 -0500
 - [이펙티브 타입스크립트 02](TypeScript/Effective_TS02.md) - Wed Jan 18 12:58:08 2023 -0500
 - [Axios Get with Headers](React/Axios_with_header.md) - Wed Jan 18 12:56:22 2023 -0500
+- [설치](Next/02_Hello-world.md) - Tue Jan 17 17:25:43 2023 -0500
+- [Next 소개](Next/01_Introduce.md) - Tue Jan 17 13:02:08 2023 -0500
 
 ### Categories
 
