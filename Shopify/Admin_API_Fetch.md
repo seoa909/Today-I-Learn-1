@@ -57,3 +57,54 @@ const getProductByType = async (req: Request, res: Response) => {
 export default { getProductByType };
 
 ```
+
+# Fetch 알고리즘 (데이터 250개 이상일때)
+```JS
+import { Request, Response } from "express";
+require("dotenv").config();
+
+const getProductByType = async (req: Request, res: Response) => {
+    const type = req.params.type;
+    const headers = {
+        "X-Shopify-Access-Token": process.env.SHOPIFY_ADMIN_KEY
+    };
+    const arr: any[] = [];
+    try {
+        let url = `https://${process.env.SHOPIFY_STORE_NAME}.myshopify.com/admin/api/${process.env.SHOPIFY_YEAR}/${process.env.SHOPIFY_Category}.json?limit=${process.env.SHOPIFY_LIMIT}&status=${process.env.SHOPIFY_Status}&${process.env.SHOPIFY_Sub_Category}=${type}`;
+        while (true) {
+            //logic
+            const response = await fetch(url, {
+                method: "GET",
+                headers: headers
+            });
+            const headerLink = response.headers.get("link");
+
+            const slicedHeader = headerLink.split(" ");
+            if (slicedHeader.includes('rel="next"')) {
+                const savedHeader = slicedHeader.indexOf('rel="next"');
+                const page_info = headerLink.split(" ")[savedHeader - 1].split(">;")[0];
+                const data = await response.json();
+                data.products.map((v: any) => {
+                    return arr.push(v);
+                });
+                url =
+                    `https://${process.env.SHOPIFY_STORE_NAME}.myshopify.com/admin/api/${process.env.SHOPIFY_YEAR}/${process.env.SHOPIFY_Category}.json?limit=${process.env.SHOPIFY_LIMIT}` +
+                    "&page_info=" +
+                    page_info +
+                    '; rel="next"';
+            } else if (!slicedHeader.includes('rel="next"')) {
+                const data = await response.json();
+                data.products.map((v: any) => {
+                    return arr.push(v);
+                });
+                res.json(arr);
+                break;
+            }
+        }
+    } catch (error) {
+        res.status(400).send("An error occured");
+    }
+};
+
+export default { getProductByType };
+```
