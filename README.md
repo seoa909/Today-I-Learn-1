@@ -5,17 +5,17 @@
 궁금하신건 아래 링크에서 질문해주세요. https://github.com/kevinkim910408/Today-I-Learn/issues/new
 
 
-_152 TILs and counting..._
+_153 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [드랍다운 메뉴 (애니메이션x)](React-Components-&-Functions/Dropdown.md) - Fri Jan 20 17:10:50 2023 -0500
 - [useState안에 배열에서 중복 삭제](React/State+Set.md) - Fri Jan 20 17:07:00 2023 -0500
 - [Admin_API](Shopify/Admin_API_Fetch.md) - Wed Jan 18 15:03:59 2023 -0500
 - [이펙티브 타입스크립트 02](TypeScript/Effective_TS02.md) - Wed Jan 18 12:58:08 2023 -0500
 - [Axios Get with Headers](React/Axios_with_header.md) - Wed Jan 18 12:56:22 2023 -0500
-- [설치](Next/02_Hello-world.md) - Tue Jan 17 17:25:43 2023 -0500
 
 ### Categories
 
@@ -194,6 +194,7 @@ _152 TILs and counting..._
 - [숫자 천의자리 마다 , 집어넣기](React-Components-&-Functions/Add-Comma-into-Numbers.md)
 - [문자열을 띄어쓰기로 자르고, 자른거 제일앞에 대문자(영어)](React-Components-&-Functions/Add-Space-when-Uppercase.md)
 - [뒤로가기 버튼](React-Components-&-Functions/Back-Button.md)
+- [드랍다운 메뉴 (애니메이션x)](React-Components-&-Functions/Dropdown.md)
 - [현재 url 가져오기](React-Components-&-Functions/Get-URL.md)
 - [페이지네이션 (버튼4개)](React-Components-&-Functions/Pagination.md)
 - [비밀번호 보이기 감추기](React-Components-&-Functions/PasswordToggle.md)
