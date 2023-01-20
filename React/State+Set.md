@@ -5,7 +5,7 @@
 - 방법: useState로 하나 정의하고, useEffect안에서 list에 map을 돌리고,
 - set 을 이용해서 아래처럼 해결
 
-``js
+```js
  useEffect(() => {
     const titles = list?.map((v: any, i: number) => {
       return v.vendor;
