@@ -5,17 +5,17 @@
 궁금하신건 아래 링크에서 질문해주세요. https://github.com/kevinkim910408/Today-I-Learn/issues/new
 
 
-_151 TILs and counting..._
+_152 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [useState안에 배열에서 중복 삭제](React/State+Set.md) - Fri Jan 20 17:07:00 2023 -0500
 - [Admin_API](Shopify/Admin_API_Fetch.md) - Wed Jan 18 15:03:59 2023 -0500
 - [이펙티브 타입스크립트 02](TypeScript/Effective_TS02.md) - Wed Jan 18 12:58:08 2023 -0500
 - [Axios Get with Headers](React/Axios_with_header.md) - Wed Jan 18 12:56:22 2023 -0500
 - [설치](Next/02_Hello-world.md) - Tue Jan 17 17:25:43 2023 -0500
-- [Next 소개](Next/01_Introduce.md) - Tue Jan 17 13:02:08 2023 -0500
 
 ### Categories
 
@@ -179,6 +179,7 @@ _151 TILs and counting..._
 - [토큰 처리](React/Modify-Token-without-Permission.md)
 - [중첩라우팅](React/Nested-Routing.md)
 - [Private Routes](React/Private-Routes.md)
+- [useState안에 배열에서 중복 삭제](React/State+Set.md)
 - [스타일 컴포넌트 타입 적용](React/Styled-Components-Type.md)
 - [타입 정리](React/Types.md)
 
