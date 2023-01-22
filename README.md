@@ -5,22 +5,23 @@
 궁금하신건 아래 링크에서 질문해주세요. https://github.com/kevinkim910408/Today-I-Learn/issues/new
 
 
-_154 TILs and counting..._
+_155 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [Nodejs로 봇 생성 (AWS-LAMBDA, AWS-CLOUDWATCH)](Discord/Bot_Node.md) - Sun Jan 22 15:00:14 2023 -0500
 - [커스텀 Debounce](React-Components-&-Functions/useDebounce.md) - Sun Jan 22 14:49:09 2023 -0500
 - [드랍다운 메뉴 (애니메이션x)](React-Components-&-Functions/Dropdown.md) - Fri Jan 20 17:10:50 2023 -0500
 - [useState안에 배열에서 중복 삭제](React/State+Set.md) - Fri Jan 20 17:07:00 2023 -0500
 - [Admin_API](Shopify/Admin_API_Fetch.md) - Wed Jan 18 15:03:59 2023 -0500
-- [이펙티브 타입스크립트 02](TypeScript/Effective_TS02.md) - Wed Jan 18 12:58:08 2023 -0500
 
 ### Categories
 
 - [CSS](#CSS)
 - [Computer-Sience](#Computer-Sience)
+- [Discord](#Discord)
 - [Docker](#Docker)
 - [Git](#Git)
 - [GitAction](#GitAction)
@@ -68,6 +69,9 @@ _154 TILs and counting..._
 - [백그라운드 데몬01 - Forever](Computer-Sience/forever.md)
 - [html 특수문자](Computer-Sience/html-특수문자.md)
 - [pip-Upgrade](Computer-Sience/pip-Upgrade.md)
+
+### [Discord](#Discord)
+- [Nodejs로 봇 생성 (AWS-LAMBDA, AWS-CLOUDWATCH)](Discord/Bot_Node.md)
 
 ### [Docker](#Docker)
 - [도커 파일 구조](Docker/01_DockerFile.md)
