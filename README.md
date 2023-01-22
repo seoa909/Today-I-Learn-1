@@ -5,17 +5,17 @@
 궁금하신건 아래 링크에서 질문해주세요. https://github.com/kevinkim910408/Today-I-Learn/issues/new
 
 
-_153 TILs and counting..._
+_154 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [커스텀 Debounce](React-Components-&-Functions/useDebounce.md) - Sun Jan 22 14:49:09 2023 -0500
 - [드랍다운 메뉴 (애니메이션x)](React-Components-&-Functions/Dropdown.md) - Fri Jan 20 17:10:50 2023 -0500
 - [useState안에 배열에서 중복 삭제](React/State+Set.md) - Fri Jan 20 17:07:00 2023 -0500
 - [Admin_API](Shopify/Admin_API_Fetch.md) - Wed Jan 18 15:03:59 2023 -0500
 - [이펙티브 타입스크립트 02](TypeScript/Effective_TS02.md) - Wed Jan 18 12:58:08 2023 -0500
-- [Axios Get with Headers](React/Axios_with_header.md) - Wed Jan 18 12:56:22 2023 -0500
 
 ### Categories
 
@@ -199,6 +199,7 @@ _153 TILs and counting..._
 - [페이지네이션 (버튼4개)](React-Components-&-Functions/Pagination.md)
 - [비밀번호 보이기 감추기](React-Components-&-Functions/PasswordToggle.md)
 - [ProgressBar](React-Components-&-Functions/ProgressBar.md)
+- [커스텀 Debounce](React-Components-&-Functions/useDebounce.md)
 
 ### [React-Firebase](#React-Firebase)
 - [초기세팅](React-Firebase/Setup.md)
