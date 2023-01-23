@@ -5,17 +5,17 @@
 궁금하신건 아래 링크에서 질문해주세요. https://github.com/kevinkim910408/Today-I-Learn/issues/new
 
 
-_156 TILs and counting..._
+_157 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [객체내부의 같은 key, value 가진 애들끼리 묶기(reduce)](React/Object_Categorize.md) - Mon Jan 23 13:50:30 2023 -0500
 - [객체를 배열로 만들기](React/Object_entries().md) - Mon Jan 23 13:47:59 2023 -0500
 - [Nodejs로 봇 생성 (AWS-LAMBDA, AWS-CLOUDWATCH)](Discord/Bot_Node.md) - Sun Jan 22 15:00:14 2023 -0500
 - [커스텀 Debounce](React-Components-&-Functions/useDebounce.md) - Sun Jan 22 14:49:09 2023 -0500
 - [드랍다운 메뉴 (애니메이션x)](React-Components-&-Functions/Dropdown.md) - Fri Jan 20 17:10:50 2023 -0500
-- [useState안에 배열에서 중복 삭제](React/State+Set.md) - Fri Jan 20 17:07:00 2023 -0500
 
 ### Categories
 
@@ -182,6 +182,7 @@ _156 TILs and counting..._
 - [현재 OS 체크하기](React/Check-OS-Language.md)
 - [토큰 처리](React/Modify-Token-without-Permission.md)
 - [중첩라우팅](React/Nested-Routing.md)
+- [객체내부의 같은 key, value 가진 애들끼리 묶기(reduce)](React/Object_Categorize.md)
 - [객체를 배열로 만들기](React/Object_entries().md)
 - [Private Routes](React/Private-Routes.md)
 - [useState안에 배열에서 중복 삭제](React/State+Set.md)
