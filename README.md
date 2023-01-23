@@ -5,17 +5,17 @@
 궁금하신건 아래 링크에서 질문해주세요. https://github.com/kevinkim910408/Today-I-Learn/issues/new
 
 
-_157 TILs and counting..._
+_158 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [공백제거](Javascript/Remove_Space.md) - Mon Jan 23 13:52:51 2023 -0500
 - [객체내부의 같은 key, value 가진 애들끼리 묶기(reduce)](React/Object_Categorize.md) - Mon Jan 23 13:50:30 2023 -0500
 - [객체를 배열로 만들기](React/Object_entries().md) - Mon Jan 23 13:47:59 2023 -0500
 - [Nodejs로 봇 생성 (AWS-LAMBDA, AWS-CLOUDWATCH)](Discord/Bot_Node.md) - Sun Jan 22 15:00:14 2023 -0500
 - [커스텀 Debounce](React-Components-&-Functions/useDebounce.md) - Sun Jan 22 14:49:09 2023 -0500
-- [드랍다운 메뉴 (애니메이션x)](React-Components-&-Functions/Dropdown.md) - Fri Jan 20 17:10:50 2023 -0500
 
 ### Categories
 
@@ -95,6 +95,7 @@ _157 TILs and counting..._
 
 ### [Javascript](#Javascript)
 - [정규식 정리](Javascript/Regular-Expression.md)
+- [공백제거](Javascript/Remove_Space.md)
 
 ### [Javascript-Core-JS](#Javascript-Core-JS)
 - [# Data Type](Javascript-Core-JS/01_Data-Type.md)
