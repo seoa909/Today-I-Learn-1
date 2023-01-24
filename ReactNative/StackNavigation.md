@@ -1,4 +1,4 @@
-# StackNavigation Practice Code
+<!-- # StackNavigation Practice Code
 
 # Preview
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/59503331/192073784-00449860-703b-4b91-88c9-96aac1ec63f2.gif)
@@ -321,3 +321,4 @@ const styles = StyleSheet.create({
 }
 
 ```
+ -->
