@@ -259,7 +259,7 @@ _158 TILs and counting..._
 - [Image Upload](ReactNative/Image-Upload.md)
 - [Relative Path Image](ReactNative/Relative-Path-Image.md)
 - [Remove Warning](ReactNative/Remove-Warning.md)
-- [StackNavigation Practice Code](ReactNative/StackNavigation.md)
+- [<!-- # StackNavigation Practice Code](ReactNative/StackNavigation.md)
 - [TouchableWithoutFeedback vs TouchableHighlight](ReactNative/TouchableWithoutFeedback-vs-TouchableHighlight.md)
 - [환경변수](ReactNative/env.md)
 
