@@ -1,4 +1,4 @@
-<!-- # StackNavigation Practice Code
+# StackNavigation Practice Code
 
 # Preview
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/59503331/192073784-00449860-703b-4b91-88c9-96aac1ec63f2.gif)
@@ -49,12 +49,12 @@ const StackNavigator = () => {
           backgroundColor: "black",
           borderBottomColor: "black",
           shadowColor: "black",
-          height: 50,
+          height: 50
         },
         headerTitleAlign: "center",
         headerTintColor: "#FFF",
         headerBackTitleVisible: false,
-        headerTitle: "Frozen",
+        headerTitle: "Frozen"
       }}
     >
       <Stack.Screen name="Elsa" component={Elsa} />
@@ -75,7 +75,7 @@ import {
   Image,
   Text,
   TouchableOpacity,
-  StatusBar,
+  StatusBar
 } from "react-native";
 
 import { styles } from "./Styles";
@@ -133,7 +133,7 @@ import {
   Image,
   Text,
   TouchableOpacity,
-  StatusBar,
+  StatusBar
 } from "react-native";
 
 import { styles } from "./Styles";
@@ -187,13 +187,13 @@ import { StyleSheet } from "react-native";
 export const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#000080",
+    backgroundColor: "#000080"
   },
   ProfileBox: {
     height: 300,
     margin: 40,
     justifyContent: "center",
-    alignItems: "center",
+    alignItems: "center"
   },
   ExplainBox: {
     backgroundColor: "#fff",
@@ -201,21 +201,21 @@ export const styles = StyleSheet.create({
     marginTop: 0,
     margin: 50,
     borderRadius: 30,
-    padding: 15,
+    padding: 15
   },
   ButtonBox: {
     width: "100%",
-    alignItems: "center",
+    alignItems: "center"
   },
   FlexBox: {
-    flex: 1,
+    flex: 1
   },
   imageStyle: {
     width: "100%",
     height: "100%",
     alignItems: "center",
     justifyContent: "center",
-    borderRadius: 999,
+    borderRadius: 999
   },
   textStyle: {
     color: "#000080",
@@ -223,20 +223,20 @@ export const styles = StyleSheet.create({
     fontSize: 20,
     fontWeight: "bold",
     marginTop: 5,
-    marginBottom: 5,
+    marginBottom: 5
   },
   buttonStyle: {
     width: 200,
     backgroundColor: "yellow",
     borderRadius: 30,
     marginTop: 10,
-    padding: 10,
+    padding: 10
   },
   themeStyle: {
     width: "100%",
     backgroundColor: "pink",
     borderRadius: 20,
-    padding: 5,
+    padding: 5
   },
 });
 
@@ -268,20 +268,20 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: "center",
     alignItems: "center",
-    backgroundColor: "#000080",
+    backgroundColor: "#000080"
   },
   title: {
     fontSize: 20,
     fontWeight: "700",
     color: "#fff",
-    marginTop: 30,
+    marginTop: 30
   },
   imageStyle: {
     width: "100%",
     height: "50%",
     alignItems: "center",
     justifyContent: "center",
-    borderRadius: 999,
+    borderRadius: 999
   },
 });
 
@@ -321,4 +321,4 @@ const styles = StyleSheet.create({
 }
 
 ```
- -->
+
