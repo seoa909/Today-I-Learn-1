@@ -5,20 +5,21 @@
 궁금하신건 아래 링크에서 질문해주세요. https://github.com/kevinkim910408/Today-I-Learn/issues/new
 
 
-_159 TILs and counting..._
+_160 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [test](Algorithm/test.md) - Tue Jan 31 17:56:47 2023 -0500
 - [useRef](React/useRef.md) - Tue Jan 24 17:41:53 2023 -0500
 - [공백제거](Javascript/Remove_Space.md) - Mon Jan 23 13:52:51 2023 -0500
 - [객체내부의 같은 key, value 가진 애들끼리 묶기(reduce)](React/Object_Categorize.md) - Mon Jan 23 13:50:30 2023 -0500
 - [객체를 배열로 만들기](React/Object_entries().md) - Mon Jan 23 13:47:59 2023 -0500
-- [Nodejs로 봇 생성 (AWS-LAMBDA, AWS-CLOUDWATCH)](Discord/Bot_Node.md) - Sun Jan 22 15:00:14 2023 -0500
 
 ### Categories
 
+- [Algorithm](#Algorithm)
 - [CSS](#CSS)
 - [Computer-Sience](#Computer-Sience)
 - [Discord](#Discord)
@@ -53,6 +54,9 @@ _159 TILs and counting..._
 - [Shopify](#Shopify)
 - [TypeScript](#TypeScript)
 - [Vercel](#Vercel)
+
+### [Algorithm](#Algorithm)
+- [test](Algorithm/test.md)
 
 ### [CSS](#CSS)
 - [글자수 ... 처리](CSS/webkit-line-clamp.md)
