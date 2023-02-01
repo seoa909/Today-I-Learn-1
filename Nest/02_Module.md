@@ -1,4 +1,4 @@
-# Nestjs 모듈?
+# 02. Nest.js 모듈
 - App Module (root module) 안에 여러 모듈이 연결된다.
 - 각 모듈들은 Controllers, Services 등을 갖는다.
 - App Module은 무조건 한개 이상 (Next.js가 시작하는 시작점)
