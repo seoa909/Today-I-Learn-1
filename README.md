@@ -5,17 +5,17 @@
 궁금하신건 아래 링크에서 질문해주세요. https://github.com/kevinkim910408/Today-I-Learn/issues/new
 
 
-_161 TILs and counting..._
+_163 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [컨트롤러 생성](Nest/03_Controller.md) - Tue Jan 31 22:19:06 2023 -0500
+- [Nestjs 모듈?](Nest/02_Module.md) - Tue Jan 31 22:18:49 2023 -0500
 - [Next.js?](Nest/01_Start.md) - Tue Jan 31 22:18:22 2023 -0500
 - [Leetcode 1672. Richest Customer Wealth](Algorithm/230131.md) - Tue Jan 31 22:00:31 2023 -0500
 - [useRef](React/useRef.md) - Tue Jan 24 17:41:53 2023 -0500
-- [공백제거](Javascript/Remove_Space.md) - Mon Jan 23 13:52:51 2023 -0500
-- [객체내부의 같은 key, value 가진 애들끼리 묶기(reduce)](React/Object_Categorize.md) - Mon Jan 23 13:50:30 2023 -0500
 
 ### Categories
 
@@ -141,6 +141,8 @@ _161 TILs and counting..._
 
 ### [Nest](#Nest)
 - [Next.js?](Nest/01_Start.md)
+- [Nestjs 모듈?](Nest/02_Module.md)
+- [컨트롤러 생성](Nest/03_Controller.md)
 
 ### [Next](#Next)
 - [Next 소개](Next/01_Introduce.md)
