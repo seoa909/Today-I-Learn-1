@@ -11,7 +11,7 @@ _160 TILs and counting..._
 
 ### 5 most recent TILs
 
-- [test](Algorithm/test.md) - Tue Jan 31 17:56:47 2023 -0500
+- [Leetcode 1672. Richest Customer Wealth](Algorithm/230131.md) - Tue Jan 31 22:00:31 2023 -0500
 - [useRef](React/useRef.md) - Tue Jan 24 17:41:53 2023 -0500
 - [공백제거](Javascript/Remove_Space.md) - Mon Jan 23 13:52:51 2023 -0500
 - [객체내부의 같은 key, value 가진 애들끼리 묶기(reduce)](React/Object_Categorize.md) - Mon Jan 23 13:50:30 2023 -0500
@@ -56,7 +56,7 @@ _160 TILs and counting..._
 - [Vercel](#Vercel)
 
 ### [Algorithm](#Algorithm)
-- [test](Algorithm/test.md)
+- [Leetcode 1672. Richest Customer Wealth](Algorithm/230131.md)
 
 ### [CSS](#CSS)
 - [글자수 ... 처리](CSS/webkit-line-clamp.md)
