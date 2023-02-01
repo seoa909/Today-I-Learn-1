@@ -5,7 +5,7 @@
 궁금하신건 아래 링크에서 질문해주세요. https://github.com/kevinkim910408/Today-I-Learn/issues/new
 
 
-_164 TILs and counting..._
+_165 TILs and counting..._
 
 ---
 
@@ -213,6 +213,7 @@ _164 TILs and counting..._
 - [숫자 천의자리 마다 , 집어넣기](React-Components-&-Functions/Add-Comma-into-Numbers.md)
 - [문자열을 띄어쓰기로 자르고, 자른거 제일앞에 대문자(영어)](React-Components-&-Functions/Add-Space-when-Uppercase.md)
 - [뒤로가기 버튼](React-Components-&-Functions/Back-Button.md)
+- [CSV 파일 Fetching 해서 테이블 만들기](React-Components-&-Functions/CSV_fetching.md)
 - [드랍다운 메뉴 (애니메이션x)](React-Components-&-Functions/Dropdown.md)
 - [현재 url 가져오기](React-Components-&-Functions/Get-URL.md)
 - [페이지네이션 (버튼4개)](React-Components-&-Functions/Pagination.md)
