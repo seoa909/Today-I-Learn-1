@@ -12,7 +12,7 @@ _163 TILs and counting..._
 ### 5 most recent TILs
 
 - [컨트롤러 생성](Nest/03_Controller.md) - Tue Jan 31 22:19:06 2023 -0500
-- [02. Nest.js 모듈](Nest/02_Module.md) - Tue Jan 31 22:18:49 2023 -0500
+- [02. Module](Nest/02_Module.md) - Tue Jan 31 22:18:49 2023 -0500
 - [01. Next.js Start](Nest/01_Start.md) - Tue Jan 31 22:18:22 2023 -0500
 - [Leetcode 1672. Richest Customer Wealth](Algorithm/230131.md) - Tue Jan 31 22:00:31 2023 -0500
 - [useRef](React/useRef.md) - Tue Jan 24 17:41:53 2023 -0500
@@ -141,7 +141,7 @@ _163 TILs and counting..._
 
 ### [Nest](#Nest)
 - [01. Next.js Start](Nest/01_Start.md)
-- [02. Nest.js 모듈](Nest/02_Module.md)
+- [02. Module](Nest/02_Module.md)
 - [컨트롤러 생성](Nest/03_Controller.md)
 
 ### [Next](#Next)
