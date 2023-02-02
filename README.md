@@ -4,7 +4,7 @@
 케빈의 TIL
 
 
-_172 TILs and counting..._
+_173 TILs and counting..._
 
 ---
 
@@ -150,6 +150,7 @@ _172 TILs and counting..._
 - [08. Data Transfer Object](Nest/08_DTO.md)
 - [09. CRUD - id로 찾아서 Read 하기](Nest/09_CRUD_R.md)
 - [10. CRUD - id로 찾아서 Delete 하기](Nest/10_CRUD_D.md)
+- [11. id 받아와서 update 하기](Nest/11_CRUD_U.md)
 
 ### [Next](#Next)
 - [Next 소개](Next/01_Introduce.md)
