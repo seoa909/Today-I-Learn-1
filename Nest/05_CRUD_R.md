@@ -26,7 +26,7 @@ export class BoardsController {
 
   @Get('/')
   getAllBoards() {
-    return this.BoardsService.getAllBoards;
+    return this.BoardsService.getAllBoards();
   }
 }
 
