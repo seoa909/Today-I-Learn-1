@@ -31,3 +31,42 @@ export class BoardsService {
 }
 
 ```
+
+# 컨트롤러 코드
+- post 부분 생성
+- post 이런 method 들은 다 import 해와야한다.
+- express와 다르게 req.body가 아니라 @Body로 가져올 수 있다.
+```js
+import { Body, Controller, Get, Post } from '@nestjs/common';
+import { BoardsService } from './boards.service';
+import { Board } from './boards.model';
+
+@Controller('boards')
+export class BoardsController {
+  constructor(private boardsService: BoardsService) {}
+
+  @Get('/')
+  getAllBoards(): Board[] {
+    return this.boardsService.getAllBoards();
+  }
+
+  @Post()
+  createBoard(
+    @Body('title') title: string,
+    @Body('description') description: string,
+  ): Board {
+    return this.boardsService.createBoard(title, description);
+  }
+}
+
+```
+
+# Postman
+```js
+{
+    "title": "title 02",
+    "description": "description 02"
+}
+```
+![image](https://user-images.githubusercontent.com/59503331/216381490-9850d870-9bec-446f-990c-84dcef4de3db.png)
+
