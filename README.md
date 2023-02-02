@@ -5,7 +5,7 @@
 궁금하신건 아래 링크에서 질문해주세요. https://github.com/kevinkim910408/Today-I-Learn/issues/new
 
 
-_168 TILs and counting..._
+_169 TILs and counting..._
 
 ---
 
@@ -101,6 +101,7 @@ _168 TILs and counting..._
 ### [Javascript](#Javascript)
 - [정규식 정리](Javascript/Regular-Expression.md)
 - [공백제거](Javascript/Remove_Space.md)
+- [Sort() - 배열안에 객체들의 특정 값으로](Javascript/Sort_in_array_object.md)
 
 ### [Javascript-Core-JS](#Javascript-Core-JS)
 - [# Data Type](Javascript-Core-JS/01_Data-Type.md)
