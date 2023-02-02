@@ -5,7 +5,7 @@
 궁금하신건 아래 링크에서 질문해주세요. https://github.com/kevinkim910408/Today-I-Learn/issues/new
 
 
-_167 TILs and counting..._
+_168 TILs and counting..._
 
 ---
 
@@ -146,6 +146,7 @@ _167 TILs and counting..._
 - [04. Service & Provider](Nest/04_Service_Provider.md)
 - [CRUD 의 R 기초](Nest/05_CRUD_R.md)
 - [모델](Nest/06_Model.md)
+- [CRUD 의 C 기초](Nest/07_CRUD_C.md)
 
 ### [Next](#Next)
 - [Next 소개](Next/01_Introduce.md)
