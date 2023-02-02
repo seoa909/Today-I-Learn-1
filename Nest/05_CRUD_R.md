@@ -1,4 +1,4 @@
-# 05.CRUD 의 R 기초
+# 05. CRUD 의 R 기초
 
 - Service
 ```js
