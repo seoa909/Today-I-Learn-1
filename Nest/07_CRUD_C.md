@@ -1,4 +1,4 @@
-# CRUD 의 C 기초
+# 07. CRUD 의 C 기초
 
 # 서비스 코드
 - ID는 현재 로컬에서 할 예정이라, uuid 사용 => ```yarn add uuid```
