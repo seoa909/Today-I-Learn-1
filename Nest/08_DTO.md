@@ -1,4 +1,4 @@
-# Data Transfer Object
+# 08. Data Transfer Object
 
 - DB에서 데이터ㅏ를 얻어서 Service나 Controller로 보낼때 사용하는 객체
 - 데이터가 네트워크가 전송되는 방법을 정의하는 객체이기도 하다.
