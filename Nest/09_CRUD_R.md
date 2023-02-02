@@ -23,7 +23,7 @@ export class BoardsController {
   }
 
   @Get('/:id')
-  getBoardById(@Param('id') id: string) {
+  getBoardById(@Param('id') id: string) : Board {
     return this.boardsService.getBoardById(id);
   }
 }
