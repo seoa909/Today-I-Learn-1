@@ -109,7 +109,7 @@ const listing = useMemo(
   );
 };
 
-export default Filters;
+export default memo(Filters);
 
 ```
 
