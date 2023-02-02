@@ -1,4 +1,4 @@
-# CRUD - id로 찾아서 Read 하기
+# 09. CRUD - id로 찾아서 Read 하기
 
 # 컨트롤러, 서비스
 - Body에 보내는게 아니라 param으로 아이디를 보낼거기 떄문에 @Param을 사용한다.
