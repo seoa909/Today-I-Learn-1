@@ -21,19 +21,29 @@ const OrderFilter = () => {
   return (
     <StWrap>
       <header>FILTER</header>
-      <Filters
-        name="E-LIQUID"
-        subName="FREEBASE"
-        subNameTwo="SALT"
+     <Filters
+        name={Str.ELIQUID}
+        subName={[Str.FREEBASE, Str.SALT]}
         click={onEliquidClickHandler}
         state={eliquid}
       />
       <Filters
-        name="HARDWARE"
-        subName="SOME"
-        subNameTwo="MANY"
-        subNameThree="WILL"
-        subNameFour="COME HERE"
+        name={Str.HARDWARE}
+        subName={[
+          Str.ACCESSORIES,
+          Str.BATTERIES,
+          Str.BATTERY_CASE,
+          Str.BOX_MODS,
+          Str.CLOSED_POD_SYSTEM,
+          Str.COILS,
+          Str.DRIP_TIP,
+          Str.HARDWARE,
+          Str.OPEN_POD_SYSTEM,
+          Str.PODS,
+          Str.STARTER_KIT,
+          Str.TANK,
+          Str.UNICORN_BOTTLE,
+        ]}
         click={onHardwareClickHandler}
         state={hardware}
       />
@@ -52,62 +62,49 @@ import { FilterEach, StIcon } from "./style";
 
 interface IPropsTyp {
   name: string;
-  subName: string;
-  subNameTwo?: string;
-  subNameThree?: string;
-  subNameFour?: string;
-  state: boolean;
-  click: React.MouseEventHandler<HTMLDivElement> | undefined;
+  subName: string[];
+  state?: boolean;
+  click?: React.MouseEventHandler<HTMLDivElement> | undefined;
 }
 
-const Filters = ({
-  name,
-  subName,
-  subNameTwo,
-  state,
-  click,
-  subNameThree,
-  subNameFour,
-}: IPropsTyp) => {
-  return (
-    <div style={{ width: "150px", marginBottom: "1rem", cursor: "pointer" }}>
-      <div
-        style={{
-          display: "flex",
-          marginBottom: "1rem",
-          justifyContent: "space-between",
-        }}
-        onClick={click}
-      >
-        {name}
-        {state ? <StIcon name="Down" /> : <StIcon name="Right" />}
-      </div>
-      {state && (
-        <>
-          <FilterEach last={false}>
+const Filters = ({ name, subName, state, click }: IPropsTyp) => {
+const listing = useMemo(
+    () =>
+      subName.map((v, i) => {
+        return (
+          <FilterEach
+            key={i}
+            last={false}
+            onClick={() =>
+              name === Str.ELIQUID
+                ? onClickHandler(name, v)
+                : onClickHardwareHandler(v)
+            }
+          >
             <StIcon name="Dot" />
-            {subName}
+            <div className="nameDiv">
+              {v === Str.HARDWARE ? Str.REPLACEMENT_GLASS : v}
+            </div>
           </FilterEach>
-          {subNameTwo && (
-            <FilterEach last={false}>
-              <StIcon name="Dot" />
-              {subNameTwo}
-            </FilterEach>
-          )}
-          {subNameThree && (
-            <FilterEach last={false}>
-              <StIcon name="Dot" />
-              {subNameThree}
-            </FilterEach>
-          )}
-          {subNameFour && (
-            <FilterEach last={true}>
-              <StIcon name="Dot" />
-              {subNameFour}
-            </FilterEach>
-          )}
-        </>
+        );
+      }),
+    [subName]
+  );
+  return (
+      <div className="filter">
+      {loading ? (
+        <div className="mainCategory">
+          {name}
+          {state ? <StIcon name="Down" /> : <StIcon name="Right" />}
+        </div>
+      ) : (
+        <div className="mainCategory" onClick={click}>
+          {name}
+          {state ? <StIcon name="Down" /> : <StIcon name="Right" />}
+        </div>
       )}
+      {/* Sub Categories */}
+      {state && listing}
     </div>
   );
 };
