@@ -1,4 +1,4 @@
-# CRUD - id로 찾아서 Delete 하기
+# 10. CRUD - id로 찾아서 Delete 하기
 
 # 컨트롤러, 서비스
 - 지울때는 return은 굳이 안해줘도 괜찮다.
