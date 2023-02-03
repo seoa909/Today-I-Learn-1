@@ -159,7 +159,7 @@ _178 TILs and counting..._
 - [11. id 받아와서 update 하기](Nest/11_CRUD_U.md)
 - [12. Pipes](Nest/12_Pipes.md)
 - [13. Pipe를 실제로 적용해보기](Nest/13_Pipes_02.md)
-- [Pipe를 이용해 특정 게시물의 id를 찾을 수 없는 경우 에러처리](Nest/14_Pipes03.md)
+- [특정 게시물의 id를 찾을 수 없는 경우 에러처리](Nest/14_Error.md)
 
 ### [Next](#Next)
 - [Next 소개](Next/01_Introduce.md)
