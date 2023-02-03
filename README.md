@@ -4,7 +4,7 @@
 케빈의 TIL
 
 
-_180 TILs and counting..._
+_181 TILs and counting..._
 
 ---
 
@@ -48,8 +48,9 @@ _180 TILs and counting..._
 - [Vercel](#Vercel)
 
 ### [Algorithm](#Algorithm)
-- [Leetcode 1672. Richest Customer Wealth](Algorithm/230131.md)
-- [Leetcode 0002. Add Two Numbers](Algorithm/230202.md)
+- [Leetcode 1672. Richest Customer Wealth (Easy)](Algorithm/230131.md)
+- [Leetcode 0002. Add Two Numbers (Medium)](Algorithm/230202.md)
+- [Leetcode 0002. Add Two Numbers](Algorithm/230203.md)
 
 ### [CSS](#CSS)
 - [글자수 ... 처리](CSS/webkit-line-clamp.md)
