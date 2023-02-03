@@ -4,7 +4,7 @@
 케빈의 TIL
 
 
-_175 TILs and counting..._
+_176 TILs and counting..._
 
 ---
 
@@ -157,6 +157,7 @@ _175 TILs and counting..._
 - [09. CRUD - id로 찾아서 Read 하기](Nest/09_CRUD_R.md)
 - [10. CRUD - id로 찾아서 Delete 하기](Nest/10_CRUD_D.md)
 - [11. id 받아와서 update 하기](Nest/11_CRUD_U.md)
+- [12. Pipes](Nest/12_Pipes.md)
 
 ### [Next](#Next)
 - [Next 소개](Next/01_Introduce.md)
