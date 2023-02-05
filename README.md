@@ -4,7 +4,7 @@
 케빈의 TIL
 
 
-_180 TILs and counting..._
+_181 TILs and counting..._
 
 ---
 
@@ -255,6 +255,7 @@ _180 TILs and counting..._
 ### [React-Redux](#React-Redux)
 - [InitialState Type](React-Redux/InitialState-Type.md)
 - [툴킷 리듀서 예제](React-Redux/Redux-Toolkit-CR.md)
+- [리덕스 툴킷 Persist](React-Redux/Redux-Toolkit-Persist.md)
 - [툴킷 Store 타입](React-Redux/Redux-Toolkit-Store-Type.md)
 - [Redux-thunk](React-Redux/Redux-thunk.md)
 
