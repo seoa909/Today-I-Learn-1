@@ -4,7 +4,7 @@
 케빈의 TIL
 
 
-_185 TILs and counting..._
+_186 TILs and counting..._
 
 ---
 
@@ -152,6 +152,7 @@ _185 TILs and counting..._
 - [14. 특정 게시물의 id를 찾을 수 없는 경우 에러처리](Nest/14_Error.md)
 - [15. 삭제할려는데 ID가 없는경우 처리해주기.](Nest/15_Error02.md)
 - [16. 커스텀 파이프 제작](Nest/16_Custom_Pipe.md)
+- [17 PostgresSQL & pgAdmin](Nest/17_PostgresSQL+pgAdmin.md)
 
 ### [Next](#Next)
 - [Next 소개](Next/01_Introduce.md)
