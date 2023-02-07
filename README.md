@@ -228,7 +228,6 @@ _184 TILs and counting..._
 - [비밀번호 보이기 감추기](React-Components-&-Functions/PasswordToggle.md)
 - [ProgressBar](React-Components-&-Functions/ProgressBar.md)
 - [Input창 클릭 focus했을때, 안했을때 이벤트](React-Components-&-Functions/input_focus_event.md)
-- [커스텀 Debounce](React-Components-&-Functions/useDebounce.md)
 
 ### [React-Firebase](#React-Firebase)
 - [초기세팅](React-Firebase/Setup.md)
@@ -237,7 +236,9 @@ _184 TILs and counting..._
 - [getDoc](React-Firebase/getDoc.md)
 
 ### [React-Hook](#React-Hook)
+- [커스텀 Debounce](React-Hook/useDebounce.md)
 - [useDetectClose.ts](React-Hook/useDetectClose.md)
+- [useMediaQuery](React-Hook/useMediaQuery.md)
 - [윈도우 가로사이즈 재기](React-Hook/useWindowWide.md)
 
 ### [React-Library](#React-Library)
@@ -249,7 +250,6 @@ _184 TILs and counting..._
 - [현재 url 공유하기](React-Library/react-copy-to-clipboard.md)
 - [리액트 에러바운더리](React-Library/react-error-boundary.md)
 - [universal-cookie](React-Library/universal-cookie.md)
-- [useMediaQuery](React-Library/useMediaQuery.md)
 
 ### [React-React-Query](#React-React-Query)
 - [useMutation](React-React-Query/useMutation.md)
