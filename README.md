@@ -4,7 +4,7 @@
 케빈의 TIL
 
 
-_183 TILs and counting..._
+_184 TILs and counting..._
 
 ---
 
@@ -64,6 +64,7 @@ _183 TILs and counting..._
 - [MonoRepo(Vite+Node(js)](Computer-Sience/MonoRepo-Vite-Node-js.md)
 - [MonoRepo(Vite+Node(ts)](Computer-Sience/MonoRepo-Vite-Node-ts.md)
 - [OAuth (Open Authorization)](Computer-Sience/OAuth.md)
+- [AWS S3 로 Frontend 배포](Computer-Sience/S3_FrontEnd.md)
 - [백그라운드 데몬01 - Forever](Computer-Sience/forever.md)
 - [html 특수문자](Computer-Sience/html-특수문자.md)
 - [pip-Upgrade](Computer-Sience/pip-Upgrade.md)
