@@ -21,3 +21,6 @@
  - Properties의 제일 아래 Static website hosting enable 해주고, 시작파일 index.html로
  - 리액트가서 yarn build 해서 빌드파일 전체를 Objects 탭에가서 upload하기
  - 테스트 
+
+
+* http 
